@@ -1,0 +1,3949 @@
+===========================================================================
+
+                   COMPARATIVE STUDY OF ELECTORAL SYSTEMS (CSES)
+                                 www.cses.org
+
+                              MODULE 4 (2011-2016)
+                                 QUESTIONNAIRE
+
+                                 FINAL VERSION                           
+
+                               - July 15, 2011 -
+                              
+                                                                                          
+===========================================================================
+
+COLLABORATOR INSTRUCTIONS FOR THE ADMINISTRATION OF THE CSES QUESTIONNAIRE:
+
+  ( 1)  Following these collaborator instructions, this document is 
+        comprised of three sections:
+
+        ))) CSES MODULE 4 QUESTIONNAIRE: ADMINISTRATIVE VARIABLES
+
+        The "Administrative Variables" section is a list of common
+        administrative variables that, if possible, should be provided at
+        the time data are deposited with the CSES Secretariat.
+
+        ))) CSES MODULE 4 QUESTIONNAIRE: CSES MODULE
+
+        This is the CSES Module itself, a common module of survey questions
+        for researchers to include in their national post-election survey.
+        The CSES Module is intended to be administered exactly as it is
+        specified in this document.
+
+        ))) CSES MODULE 4 QUESTIONNAIRE: DEMOGRAPHIC VARIABLES
+
+        Collaborators are asked to provide data on background (demographic)
+        characteristics of respondents, coded to an agreed upon set of
+        standards as indicated in this section. There is great
+        international variation in the ways that collaborators will go
+        about soliciting information on the background characteristics of
+        their respondents. The objective here is not standardization of the
+        way collaborators ask these background questions, but instead,
+        standardization to a common, cross-national scheme for coding each
+        variable.
+
+  ( 2)  The CSES Module is intended to be administered in its entirety as
+        a single, uninterrupted block of questions, unless noted otherwise
+        for particular questions. In most cases, the CSES Module is 
+        included as part of a larger study. For reliable comparisons to be
+        made, it is important that any additional items investigators may
+        wish to include do not interrupt the CSES Module.
+
+  ( 3)  The CSES module should be administered as a post-election
+        interview.
+
+  ( 4)  Where the CSES module is included in a larger study, to ensure that
+        question-ordering effects are minimized, it is most preferable for
+        the CSES Module to be administered at the beginning of the survey
+        instrument. Where this is not possible, collaborators should be
+        sensitive to the effects questions asked immediately prior to the
+        module may have.
+
+  ( 5)  NOTES often precede the question TEXT, and provide instructions for
+        the administration of the item. Where no question TEXT is provided,
+        collaborators should provide documentation of the question used.
+
+  ( 6)  Showcards may be helpful for the administration of some questions.
+        For this reason, a Respondent Booklet is available for download
+        from the CSES website. The Respondent Booklet contains showcards
+        for select questions. It is indicated in the NOTES when a showcard
+        is available for a question.
+        
+  ( 7)  The response options that should be read to the respondent are
+        contained in the body of the question TEXT.
+
+  ( 8)  Where lower-case words appear in brackets [ ] collaborators should
+        select the words that are most appropriate.
+
+        For example:
+        [party/presidential candidate]
+        ...indicates that either the word "party" or the phrase
+        "presidential candidate" should be read, but not both.
+
+  ( 9)  Where upper-case words appear in brackets [ ] collaborators should
+        substitute the words that are most appropriate.
+
+        For example:
+        [COUNTRY]
+        ...should be replaced with the name of the country where the
+        election was held (perhaps "Canada" or "the Philippines").
+
+        Another example:
+        [NUMBER OF YEARS BETWEEN THE PREVIOUS AND THE PRESENT ELECTION
+        OR CHANGE IN GOVERNMENT]
+        ...should be replaced with a number that indicates the amount of
+        years that have passed between the previous election and either the
+        current election or recent change in government.
+
+  (10)  Phrases that appear in parentheses ( ) contain words that are
+        optional - that collaborators (or their interviewers) can decide to
+        read or not read to respondents as needed.
+
+  (11)  Words in question text that are in upper-case but NOT within 
+        brackets [ ] should be emphasized by the interviewer when reading
+        the question text. 
+        
+        For example, the word "COUNTRY" would be emphasized in the
+        following question when the interviewer reads the question to the
+        respondent:
+        
+        What COUNTRY do you live in?
+        
+        But in this next example, the interviewer does not emphasize the
+        word "[COUNTRY]". Instead, this is an instruction for the
+        collaborator to substitute the name of the respondent's country
+        into the question text (for more information, see the eighth
+        Collaborator Instruction above):
+        
+        How long have you lived in [COUNTRY]?
+                        
+  (12)  Interviewer instructions are available for some questions. These
+        interviewer instructions, labeled as HELP, are intended to
+        provide advice to the interviewers to assist in administering the
+        question. It is also useful to discuss the interviewer instructions
+        as part of interviewer training. The interviewer instructions, 
+        where available, appear after the question TEXT. In 
+        interviewer-administered surveys, interviewer instructions should
+        be available to the interviewer, but not to the respondent. For
+        example, in a computer-assisted interview, the interviewer
+        instructions might appear on the screen in a special color, and
+        interviewers trained to make use of those instructions as
+        necessary, but the interviewer should NOT read the interviewer
+        instructions to the respondent.
+        
+  (13)  Some response options are followed by an arrow (->) and a skip
+        pattern instruction. If the respondent selects that response 
+        option, the skip pattern instruction after the arrow is to be
+        executed.
+
+  (14)  Respondents who volunteer the response "DON'T KNOW" (or who have
+        REFUSED to answer a question) should be coded as such. Interviewers
+        should accept these responses and should NOT probe for additional
+        information or force a respondent to use one of the response
+        options provided in the text of the question.
+
+  (15)  Special care should be taken in the administration of the Vote 
+        Choice items (Q5 and Q6 question series).
+        
+        Wording for the Q5 and Q6 question series, which is to record
+        vote choice in the elections, should follow national standards. 
+       
+        Collaborators are invited to compare their own national instrument
+        with other instruments of countries that are part of the CSES and
+        look for convergence where this is possible.
+        
+        For Q6 (previous election), ask about the previous national 
+        election of the same type (whether legislative or presidential).
+        For countries where more than one institution is being currently
+        elected on the same day (e.g. president and legislature), please 
+        consider asking about the previous lower house election if votes
+        have been recorded for the current lower house election. 
+        
+        For Q5 (current election), for countries where more than one 
+        institution is elected on the same day (e.g., president and 
+        legislature) using different votes, please ensure that all votes
+        are supplied. Consider including all national elections having been
+        held within three months before or after the study's data 
+        collection period.
+        
+        Please ensure all vote choices are supplied as separate variables
+        in the dataset that you deposit.
+        
+        For countries where voters have two votes for the same institution
+        (e.g. parallel and mixed member proportional systems; double
+        ballot systems), please ensure that both/all votes are supplied.
+        
+        For countries using preferential systems (e.g., STV, AV) please
+        provide first and second preference vote.
+          
+  (16)  For questions asking about parties, collaborators should be advised
+        that they may add one or several party blocs to a list of
+        individual parties if they feel that it will be difficult for
+        respondents to recognize individual parties.
+
+  (17)  Collaborators in the Comparative Study of Electoral Systems shall
+        adhere to the following standards of data quality:
+
+        a. Mode of interviewing: Interviews should be conducted
+           face-to-face, unless local circumstances dictate that telephone
+           or mail surveys will produce higher quality data.
+
+        b. Timing of interviewing: We strongly recommend that collaborators
+           in the Comparative Study of Electoral Systems conduct their
+           interviews in the weeks following their national election. Out
+           of concern for data quality, data collection should be completed
+           in as timely a fashion as possible. In the event of a runoff
+           election, interviewing shall be conducted after the first round
+           election. The date of interview shall be provided for each
+           respondent.
+
+        c. Placement of module in post-election questionnaire: The
+           questionnaire module should be asked as a single, uninterrupted
+           block of questions. We leave it to each collaborator to select
+           an appropriate location for the module in their national survey
+           instrument. Collaborators should take steps to ensure that
+           questions asked immediately prior to the questionnaire module
+           do not contaminate the initial questions in the module.
+           Collaborators are also free to select an appropriate place in
+           their survey instrument to ask the turnout, vote choice,
+           and demographic questions.
+
+        d. Population to be sampled: National samples should be drawn from
+           all age-eligible citizens. When non-citizens (or other 
+           non-eligible respondents) are included in the sample, a
+           variable should be provided to permit the identification of
+           those non-eligible respondents. When a collaborator samples from
+           those persons who appear on voter registration lists, the
+           collaborator should quantify the estimated degree of discrepancy
+           between this population and the population of all age-eligible
+           citizens.
+
+        e. Sampling procedures: We strongly encourage the use of random
+           samples, with random sampling procedures used at all stages of
+           the sampling process. Collaborators should provide detailed
+           documentation of their sampling practices.
+
+        f. Sample Size: We strongly recommend that no fewer than 1,000
+           age-eligible respondents be interviewed.
+
+        g. Interviewer training: Collaborators should pre-test their survey
+           instrument and should train interviewers in the administration
+           of the questionnaire. The Planning Committee will provide each
+           collaborator with documentation that clarifies the purposes and
+           objectives of each item and with rules with respect to probing
+           "don't know" responses.
+
+        h. Field practices: Collaborators should make every effort to
+           ensure a high response rate. Investigators should be diligent in
+           their effort to reach respondents not interviewed on the initial
+           contact with the household and should be diligent in their
+           effort to convert respondents who initially refuse to
+           participate in the study. Data on the number of contact
+           attempts, the number of contacts with sample persons, and
+           special persuasion or conversion efforts undertaken should be
+           coded for each respondent.
+
+        i. Strategies for translation (and back-translation): Each
+           collaborator should translate the questionnaire module into
+           their native language(s). To ensure the equivalence of the
+           translation, collaborators shall perform an independent
+           re-translation of the questionnaire back into English.
+           Collaborators engaged in translation of the questionnaire module
+           into the same language (e.g., Spanish, French, English, German,
+           and Portuguese) should collaborate on the translation.          
+
+
+===========================================================================
+))) CSES MODULE 4 QUESTIONNAIRE: ADMINISTRATIVE VARIABLES
+===========================================================================
+
+NOTES:    The "Administrative Variables" section is a list of common 
+          administrative variables that, if possible, should be provided
+          at the time data are deposited with the CSES Secretariat.
+
+          All items in this section begin with the letter "A".
+
+
+---------------------------------------------------------------------------
+A1.      >>> ID COMPONENT - RESPONDENT WITHIN ELECTION STUDY
+---------------------------------------------------------------------------
+
+NOTES:   This item should provide a unique, numeric identification
+         code for each respondent in the study.
+         ..................................................................
+
+
+---------------------------------------------------------------------------
+A2.      >>> INTERVIEWER WITHIN ELECTION STUDY
+---------------------------------------------------------------------------
+
+NOTES:   This item should provide a unique, numeric identification code
+         for each interviewer who administered the survey.
+         ..................................................................
+
+
+---------------------------------------------------------------------------
+A3.      >>> INTERVIEWER GENDER
+---------------------------------------------------------------------------
+
+NOTES:   This item should indicate the interviewer's gender.
+         ..................................................................
+
+             1. MALE
+             2. FEMALE
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+A4a.     >>> DATE QUESTIONNAIRE ADMINISTERED - MONTH
+A4b.     >>> DATE QUESTIONNAIRE ADMINISTERED - DAY
+A4c.     >>> DATE QUESTIONNAIRE ADMINISTERED - YEAR
+---------------------------------------------------------------------------
+
+NOTES:   This item should indicate the date on which the post-election
+         interview took place.
+         Please note that recording and providing this information to CSES
+         is especially important because it is used in combination with the 
+         date of birth information in the demographic section to calculate 
+         the age of the respondent.
+         ..................................................................
+
+             MONTH
+
+             01. JANUARY
+             02. FEBRUARY
+             03. MARCH
+             04. APRIL
+             05. MAY
+             06. JUNE
+             07. JULY
+             08. AUGUST
+             09. SEPTEMBER
+             10. OCTOBER
+             11. NOVEMBER
+             12. DECEMBER
+
+             99. MISSING
+
+
+             DAY
+
+             01-31. DAY OF MONTH
+
+             99.    MISSING
+
+
+             YEAR
+
+             2011-2016. YEAR
+
+             9999.      MISSING
+
+
+---------------------------------------------------------------------------
+A5.      >>> ORIGINAL WEIGHT: SAMPLE
+         >>> ORIGINAL WEIGHT: DEMOGRAPHIC
+         >>> ORIGINAL WEIGHT: POLITICAL
+---------------------------------------------------------------------------
+
+NOTES:   Please provide any weights that you have available. We are able
+         to include up to three separate weights in the CSES dataset: one
+         sample weight, one demographic weight, and one political weight.
+         Please also provide whatever documentation is available concerning
+         the weights and their creation.
+         ..................................................................
+
+
+---------------------------------------------------------------------------
+A6.      >>> LANGUAGE OF QUESTIONNAIRE ADMINISTRATION
+---------------------------------------------------------------------------
+
+NOTES:   For election studies where the questionnaire is administered in
+         more than one language, please indicate here what language was
+         used to conduct the interview for each respondent.
+         ..................................................................
+
+
+===========================================================================
+))) CSES MODULE 4 QUESTIONNAIRE: CSES MODULE
+===========================================================================
+
+NOTES:   This is the CSES Module itself, a common module of survey
+         questions for researchers to include in their national
+         post-election survey. The questionnaire is intended to be
+         administered exactly as it appears in this document.
+
+         All items in this section begin with the letter "Q".
+
+
+---------------------------------------------------------------------------
+Q1a.     >>> PUBLIC EXPENDITURE: HEALTH
+---------------------------------------------------------------------------
+
+NOTES:   The following definitions are provided as guidance for
+         translating questions Q1a through Q1h into other languages.
+
+         The word "health" is intended to refer to public expenditure
+         related to health care, i.e., public health care programs, public
+         hospitals, clinics, etc.
+
+         The word "education" is intended to refer to public expenditure 
+         related to all forms of education, i.e., primary and secondary 
+         education, universities and colleges, etc.
+
+         The phrase "unemployment benefits" is intended to refer to 
+         public expenditure related to the unemployed, mainly through 
+         employment insurance programs, but also job training directed at 
+         the unemployed, and related programs.
+
+         The word "defense" is intended to refer to public expenditure on 
+         the military, and other defense-related programs; it is NOT 
+         intended to refer to other international affairs programs, nor 
+         foreign aid.
+
+         The phrase "old-age pensions" is intended to refer to public
+         expenditure on old age pensions, NOT other spending on programs
+         directed at the elderly.
+
+         The phrase "business and industry" is intended to refer to public
+         expenditure related to helping business and industry, particularly
+         through subsidies.
+
+         The phrase "police and law enforcement" is intended to refer to
+         public expenditure on the justice system related to police and
+         law enforcement.
+
+         The phrase "welfare benefits" is intended to refer to public
+         expenditure on welfare programs or social benefit programs.
+         ..................................................................
+
+TEXT:    For the next questions, please say whether there should be more or
+         less public expenditure in each of the following areas. Remember
+         if you say "more" it could require a tax increase, and if you say
+         "less" it could require a reduction in those services.
+
+         Thinking about public expenditure on HEALTH, 
+         should there be much more than now, somewhat more than now, 
+         the same as now, somewhat less than now, or much less than now?
+         ..................................................................
+         
+HELP:    The word "health" is intended to refer to public expenditure
+         related to health care, i.e., public health care programs, public
+         hospitals, clinics, etc.
+         ..................................................................
+
+             1. MUCH MORE THAN NOW
+             2. SOMEWHAT MORE THAN NOW
+             3. THE SAME AS NOW
+             4. SOMEWHAT LESS THAN NOW
+             5. MUCH LESS THAN NOW
+             
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+ 
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q1b.     >>> PUBLIC EXPENDITURE: EDUCATION
+---------------------------------------------------------------------------
+
+TEXT:    Thinking about public expenditure on EDUCATION, 
+         should there be much more than now, somewhat more than now, 
+         the same as now, somewhat less than now, or much less than now?
+         ..................................................................
+         
+HELP:    The word "education" is intended to refer to public expenditure 
+         related to all forms of education, i.e., primary and secondary 
+         education, universities and colleges, etc.
+         ..................................................................
+
+             1. MUCH MORE THAN NOW
+             2. SOMEWHAT MORE THAN NOW
+             3. THE SAME AS NOW
+             4. SOMEWHAT LESS THAN NOW
+             5. MUCH LESS THAN NOW
+              
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+ 
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q1c.     >>> PUBLIC EXPENDITURE: UNEMPLOYMENT BENEFITS
+---------------------------------------------------------------------------
+
+TEXT:    Thinking about public expenditure on UNEMPLOYMENT BENEFITS, 
+         should there be much more than now, somewhat more than now, 
+         the same as now, somewhat less than now, or much less than now?
+         ..................................................................
+         
+HELP:    The phrase "unemployment benefits" is intended to refer to 
+         public expenditure related to the unemployed, mainly through 
+         employment insurance programs, but also job training directed at 
+         the unemployed, and related programs.
+         ..................................................................
+
+             1. MUCH MORE THAN NOW
+             2. SOMEWHAT MORE THAN NOW
+             3. THE SAME AS NOW
+             4. SOMEWHAT LESS THAN NOW
+             5. MUCH LESS THAN NOW
+              
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+ 
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q1d.     >>> PUBLIC EXPENDITURE: DEFENSE
+---------------------------------------------------------------------------
+
+TEXT:    Thinking about public expenditure on DEFENSE, 
+         should there be much more than now, somewhat more than now, 
+         the same as now, somewhat less than now, or much less than now?
+         ..................................................................
+         
+HELP:    The word "defense" is intended to refer to public expenditure on 
+         the military, and other defense-related programs; it is NOT 
+         intended to refer to other international affairs programs, nor 
+         foreign aid.
+         ..................................................................
+
+             1. MUCH MORE THAN NOW
+             2. SOMEWHAT MORE THAN NOW
+             3. THE SAME AS NOW
+             4. SOMEWHAT LESS THAN NOW
+             5. MUCH LESS THAN NOW
+              
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+ 
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q1e.     >>> PUBLIC EXPENDITURE: OLD-AGE PENSIONS
+---------------------------------------------------------------------------
+
+TEXT:    Thinking about public expenditure on OLD-AGE PENSIONS,
+         should there be much more than now, somewhat more than now, 
+         the same as now, somewhat less than now, or much less than now?
+         ..................................................................
+         
+HELP:    The phrase "old-age pensions" is intended to refer to public
+         expenditure on old age pensions, NOT other spending on programs
+         directed at the elderly.
+         ..................................................................
+
+             1. MUCH MORE THAN NOW
+             2. SOMEWHAT MORE THAN NOW
+             3. THE SAME AS NOW
+             4. SOMEWHAT LESS THAN NOW
+             5. MUCH LESS THAN NOW
+              
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+ 
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q1f.     >>> PUBLIC EXPENDITURE: BUSINESS AND INDUSTRY
+---------------------------------------------------------------------------
+
+TEXT:    Thinking about public expenditure on BUSINESS AND INDUSTRY,
+         should there be much more than now, somewhat more than now, 
+         the same as now, somewhat less than now, or much less than now?
+         ..................................................................
+         
+         The phrase "business and industry" is intended to refer to public
+         expenditure related to helping business and industry, particularly
+         through subsidies.
+         ..................................................................
+
+             1. MUCH MORE THAN NOW
+             2. SOMEWHAT MORE THAN NOW
+             3. THE SAME AS NOW
+             4. SOMEWHAT LESS THAN NOW
+             5. MUCH LESS THAN NOW
+              
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+ 
+             9. MISSING
+             
+
+---------------------------------------------------------------------------
+Q1g.     >>> PUBLIC EXPENDITURE: POLICE AND LAW ENFORCEMENT
+---------------------------------------------------------------------------
+
+TEXT:    Thinking about public expenditure on POLICE AND LAW ENFORCEMENT,
+         should there be much more than now, somewhat more than now, 
+         the same as now, somewhat less than now, or much less than now?
+         ..................................................................
+         
+HELP:    The phrase "police and law enforcement" is intended to refer to
+         public expenditure on the justice system related to police and
+         law enforcement.
+         ..................................................................
+
+             1. MUCH MORE THAN NOW
+             2. SOMEWHAT MORE THAN NOW
+             3. THE SAME AS NOW
+             4. SOMEWHAT LESS THAN NOW
+             5. MUCH LESS THAN NOW
+              
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+ 
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q1h.     >>> PUBLIC EXPENDITURE: WELFARE BENEFITS
+---------------------------------------------------------------------------
+
+TEXT:    Thinking about public expenditure on WELFARE BENEFITS,
+         should there be much more than now, somewhat more than now, 
+         the same as now, somewhat less than now, or much less than now?
+         ..................................................................
+         
+         The phrase "welfare benefits" is intended to refer to public
+         expenditure on welfare programs or social benefit programs.
+         ..................................................................
+
+             1. MUCH MORE THAN NOW
+             2. SOMEWHAT MORE THAN NOW
+             3. THE SAME AS NOW
+             4. SOMEWHAT LESS THAN NOW
+             5. MUCH LESS THAN NOW
+              
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+ 
+             9. MISSING              
+
+              
+---------------------------------------------------------------------------
+Q2.      >>> IMPROVING STANDARD OF LIVING
+---------------------------------------------------------------------------
+
+TEXT:    Over the next ten years or so, how likely or unlikely is it that
+         you will improve your standard of living?  Very likely, somewhat
+         likely, somewhat unlikely, or very unlikely?
+         ..................................................................
+
+             1. VERY LIKELY
+             2. SOMEWHAT LIKELY
+             4. SOMEWHAT UNLIKELY
+             5. VERY UNLIKELY
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q3.      >>> STATE OF ECONOMY
+---------------------------------------------------------------------------
+
+TEXT:    Would you say that over the past twelve months, the state of the
+         economy in [COUNTRY] has gotten better, stayed about the same, or
+         gotten worse?
+         ..................................................................
+
+             1. GOTTEN BETTER
+             3. STAYED THE SAME  -> GO TO Q4
+             5. GOTTEN WORSE     -> GO TO Q3b
+
+             7. VOLUNTEERED: REFUSED      -> GO TO Q4
+             8. VOLUNTEERED: DON’T KNOW   -> GO TO Q4
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q3a.     >>> STATE OF ECONOMY - BETTER
+---------------------------------------------------------------------------
+
+NOTES:   Only respondents who answered "GOTTEN BETTER" at Q3 should receive
+         this question. Other respondents should be coded as MISSING for
+         this question.
+         ..................................................................
+         
+TEXT:    Would you say much better or somewhat better?
+         ..................................................................
+
+             1. MUCH BETTER      -> GO TO Q4
+             2. SOMEWHAT BETTER  -> GO TO Q4
+
+             7. VOLUNTEERED: REFUSED     -> GO TO Q4
+             8. VOLUNTEERED: DON’T KNOW  -> GO TO Q4
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q3b.     >>> STATE OF ECONOMY - WORSE
+---------------------------------------------------------------------------
+
+NOTES:   Only respondents who answered "GOTTEN WORSE" at Q3 should receive
+         this question. Other respondents should be coded as MISSING for
+         this question.
+         ..................................................................
+         
+TEXT:    Would you say much worse or somewhat worse?
+         ..................................................................
+
+             5. MUCH WORSE
+             4. SOMEWHAT WORSE
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q4.      >>> GOVERNMENT ACTION - DIFFERENCES IN INCOME LEVELS
+---------------------------------------------------------------------------
+
+TEXT:    Please say to what extent you agree or disagree with the following
+         statement:
+         
+         "The government should take measures to reduce differences in 
+         income levels."
+         
+         Do you strongly agree, somewhat agree, neither agree nor disagree, 
+         somewhat disagree, or strongly disagree?
+         ..................................................................
+
+             1. STRONGLY AGREE
+             2. SOMEWHAT AGREE
+             3. NEITHER AGREE NOR DISAGREE
+             4. SOMEWHAT DISAGREE
+             5. STRONGLY DISAGREE
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q5P1-a.  >>> CURRENT PRESIDENTIAL ELECTION [FIRST ROUND]: 
+             DID RESPONDENT CAST A BALLOT [IF APPLICABLE]
+---------------------------------------------------------------------------
+
+NOTES:   For information about how to administer the vote choice items, 
+         please refer to the "COLLABORATOR INSTRUCTIONS FOR THE 
+         ADMINISTRATION OF THE CSES QUESTIONNAIRE" section which is found
+         at the beginning of this questionnaire, paying special attention 
+         to Instruction 14.
+
+         This item should ascertain whether or not the respondent cast a
+         ballot, regardless of whether or not it was valid.
+         ..................................................................
+
+             1. RESPONDENT CAST A BALLOT 
+             5. RESPONDENT DID NOT CAST A BALLOT
+
+             6. VOLUNTEERED: RESPONDENT NOT REGISTERED ON ELECTORAL LISTS
+                [IF APPLICABLE]
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q5P1-b.  >>> CURRENT PRESIDENTIAL ELECTION [FIRST ROUND]: 
+             VOTE CHOICE [IF APPLICABLE]
+---------------------------------------------------------------------------
+
+NOTES:   For information about how to administer the vote choice items, 
+         please refer to the "COLLABORATOR INSTRUCTIONS FOR THE 
+         ADMINISTRATION OF THE CSES QUESTIONNAIRE" section which is found
+         at the beginning of this questionnaire, paying special attention 
+         to Instruction 14.
+
+         This item should report the respondent's vote choice for
+         president.
+         ..................................................................
+
+             01-95. [PLEASE PROVIDE PARTY/CANDIDATE CODES]
+
+             96.    RESPONDENT CAST INVALID BALLOT
+             
+             97.    VOLUNTEERED: REFUSED
+             98.    VOLUNTEERED: DON'T KNOW
+
+             99.    MISSING
+
+
+---------------------------------------------------------------------------
+Q5P2-a.  >>> CURRENT PRESIDENTIAL ELECTION [SECOND ROUND]: 
+             DID RESPONDENT CAST A BALLOT [IF APPLICABLE]
+---------------------------------------------------------------------------
+
+NOTES:   If the data collection occurs between rounds in a two round
+         election, this item should ascertain whether or not the respondent
+         intends to cast a ballot in the second round, regardless of
+         whether or not it will be valid.
+         If the data collection occurs after the second round in a 
+         two round election, this item should ascertain whether or not the
+         respondent cast a ballot in the second round, regardless of 
+         whether or not it was valid.
+         ..................................................................
+
+             1. RESPONDENT CAST/WILL CAST A BALLOT 
+             5. RESPONDENT DID NOT CAST/WILL NOT CAST A BALLOT
+
+             6. VOLUNTEERED: RESPONDENT NOT REGISTERED ON ELECTORAL LISTS
+                [IF APPLICABLE]
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+             
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q5P2-b.  >>> CURRENT PRESIDENTIAL ELECTION [SECOND ROUND]: 
+             VOTE CHOICE [IF APPLICABLE]
+---------------------------------------------------------------------------
+
+NOTES:   If the data collection occurs between rounds in a two round
+         election, this item should report the respondent's vote choice 
+         intention for president in the second round.
+         If the data collection occurs after the second round in a 
+         two round election, this item should report the respondent's
+         vote choice for president in the second round.
+         ..................................................................
+
+             01-95. [PLEASE PROVIDE PARTY/CANDIDATE CODES]
+
+             96.    RESPONDENT CAST/WILL CAST INVALID BALLOT
+             
+             97.    VOLUNTEERED: REFUSED
+             98.    VOLUNTEERED: DON'T KNOW
+
+             99.    MISSING
+
+
+---------------------------------------------------------------------------
+Q5LH-a.  >>> CURRENT LOWER HOUSE ELECTION: 
+             DID RESPONDENT CAST A BALLOT [IF APPLICABLE]
+---------------------------------------------------------------------------
+
+NOTES:   This item should ascertain whether or not the respondent cast a
+         ballot, regardless of whether or not it was valid.
+         ..................................................................
+
+             1. RESPONDENT CAST A BALLOT 
+             5. RESPONDENT DID NOT CAST A BALLOT
+
+             6. VOLUNTEERED: RESPONDENT NOT REGISTERED ON ELECTORAL LISTS
+                [IF APPLICABLE]
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+             
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q5LH-b.  >>> CURRENT LOWER HOUSE ELECTION: 
+             VOTE CHOICE - PARTY LIST [IF APPLICABLE]
+---------------------------------------------------------------------------
+
+NOTES:   If applicable and respondent cast a ballot in the legislative
+         election.
+
+         This item should report the respondent's vote choice for party
+         list.  
+         ..................................................................
+
+             01-95. [PLEASE PROVIDE PARTY/CANDIDATE CODES]
+
+             96.    RESPONDENT CAST INVALID BALLOT
+             
+             97.    VOLUNTEERED: REFUSED
+             98.    VOLUNTEERED: DON'T KNOW
+
+             99.    MISSING
+
+
+---------------------------------------------------------------------------
+Q5LH-c.  >>> CURRENT LOWER HOUSE ELECTION: 
+             VOTE CHOICE - DISTRICT CANDIDATE [IF APPLICABLE]
+---------------------------------------------------------------------------
+
+NOTES:   If applicable and respondent cast a ballot in the legislative
+         election.
+         
+         This item should report the respondent's vote choice for district
+         candidate. If more than one candidate have one party's 
+         affiliation, please provide choice for individual candidates. 
+         
+         For preferential voting systems, please provide the first two
+         preferences (Q5LH-c1 and Q5LH-c2).
+         ..................................................................
+
+             01-95. [PLEASE PROVIDE PARTY/CANDIDATE CODES]
+
+             96.    RESPONDENT CAST INVALID BALLOT
+             
+             97.    VOLUNTEERED: REFUSED
+             98.    VOLUNTEERED: DON'T KNOW
+
+             99.    MISSING
+
+
+---------------------------------------------------------------------------
+Q5LH-d.  >>> CURRENT LOWER HOUSE ELECTION: 
+             DID RESPONDENT CAST CANDIDATE PREFERENCE VOTE
+---------------------------------------------------------------------------
+
+NOTES:   If an open-list electoral system was used for the legislative
+         election in question and respondent cast a ballot.
+
+         This item should report whether or not the respondent cast a
+         preference vote for a candidate.
+         
+         For instance, if votes are cast for party lists, but citizens can,
+         in addition to that, mark a preference for one or more candidates
+         on the party list, then Q15LH-d may show answers to a question 
+         like this: "Did you simply vote for a party or did you also 
+         express a candidate preference?" In party list systems where 
+         voters have to vote directly for a candidate and cannot cast a
+         vote just for the party list as such (e.g. Estonia, Finland, the
+         Netherlands, Poland), this question should read like this: "Do you
+         consider the vote that you cast merely a vote for the party, or
+         did you also mean it as a vote for a particular candidate?"
+         ..................................................................
+
+             1. RESPONDENT EXERCISED CANDIDATE PREFERENCE
+             2. RESPONDENT DID NOT EXERCISE CANDIDATE PREFERENCE
+             
+             6. RESPONDENT CAST INVALID BALLOT
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+             
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q6a.     >>> PREVIOUS ELECTION: DID RESPONDENT CAST A BALLOT
+---------------------------------------------------------------------------
+
+NOTES:   For information about how to administer the vote choice items, 
+         please refer to the "COLLABORATOR INSTRUCTIONS FOR THE 
+         ADMINISTRATION OF THE CSES QUESTIONNAIRE" section which is found
+         at the beginning of this questionnaire, paying special attention 
+         to Instruction 14.
+
+         This item should ascertain whether or not the respondent cast
+         a ballot, regardless of whether or not it was valid, in the
+         PREVIOUS election to be considered (see instructions).
+         ..................................................................
+
+             1. RESPONDENT CAST A BALLOT 
+             5. RESPONDENT DID NOT CAST A BALLOT
+
+             6. VOLUNTEERED: NOT ELIGIBLE TO VOTE IN LAST ELECTION OR NOT
+                REGISTERED ON ELECTORAL LISTS
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+             
+             9. MISSING
+         
+
+---------------------------------------------------------------------------
+Q6b.     >>> PREVIOUS ELECTION: VOTE CHOICE - PARTY LIST
+---------------------------------------------------------------------------
+
+NOTES:   This item should ascertain whether or not the respondent cast
+         a ballot, regardless of whether or not it was valid, in the
+         PREVIOUS election to be considered (please see the instructions
+         from the beginning of this questionnaire).
+        
+         This item should report the respondent's vote choice for party
+         list in the PREVIOUS election.
+         
+         Which PREVIOUS elections to be asked about should be considered 
+         in accordance with the instructions from the beginning of this
+         questionnaire.
+         ..................................................................
+
+             01-95. [PLEASE PROVIDE PARTY/CANDIDATE CODES]
+
+             96.    RESPONDENT CAST INVALID BALLOT
+             
+             97.    VOLUNTEERED: REFUSED
+             98.    VOLUNTEERED: DON'T KNOW
+
+             99.    MISSING
+
+
+---------------------------------------------------------------------------
+Q6c.     >>> PREVIOUS ELECTION: VOTE CHOICE - DISTRICT CANDIDATE
+---------------------------------------------------------------------------
+
+NOTES:   This question should be asked if applicable and the respondent 
+         cast a ballot in the legislative election.
+
+         This item should report the respondent's vote choice for 
+         district candidate in the PREVIOUS election.
+         ..................................................................
+
+             01-95. [PLEASE PROVIDE PARTY/CANDIDATE CODES]
+
+             96.    RESPONDENT CAST INVALID BALLOT
+             
+             97.    VOLUNTEERED: REFUSED
+             98.    VOLUNTEERED: DON'T KNOW
+
+             99.    MISSING
+
+
+---------------------------------------------------------------------------
+Q7.      >>> WHO IS IN POWER CAN MAKE A BIG DIFFERENCE
+---------------------------------------------------------------------------
+
+NOTES:   Collaborators, please be sure to include the words "big" and "any"
+         where they appear in both the question text and the code labels.
+
+         Also, a showcard is available for this question.
+         ..................................................................
+
+TEXT:    Some people say that it doesn't make any difference who is in 
+         power. Others say that it makes a big difference who is in power.
+         Using the scale on this card, (where ONE means that it doesn't 
+         make any difference who is in power and FIVE means that it makes
+         a big difference who is in power), where would you place 
+         yourself?
+         ..................................................................
+
+             1. IT DOESN'T MAKE ANY DIFFERENCE WHO IS IN POWER
+             2.
+             3.
+             4.
+             5. IT MAKES A BIG DIFFERENCE WHO IS IN POWER
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+             
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q8.      >>> WHO PEOPLE VOTE FOR MAKES A BIG DIFFERENCE
+---------------------------------------------------------------------------
+
+NOTES:   Collaborators, please be sure to include the words "big" and "any"
+         where they appear in both the question text and the code labels.
+
+         Also, a showcard is available for this question.
+         ..................................................................
+
+TEXT:    Some people say that no matter who people vote for, it won't make 
+         any difference to what happens. Others say that who people vote 
+         for can make a big difference to what happens. Using
+         the scale on this card, (where ONE means that voting won't make 
+         any difference to what happens and FIVE means that voting can make 
+         a big difference), where would you place yourself?
+         ..................................................................
+
+             1. WHO PEOPLE VOTE FOR WON'T MAKE ANY DIFFERENCE
+             2.
+             3.
+             4.
+             5. WHO PEOPLE VOTE FOR CAN MAKE A BIG DIFFERENCE
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+             
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q9a.     >>> LIKE-DISLIKE - PARTY A
+Q9b.     >>> LIKE-DISLIKE - PARTY B
+Q9c.     >>> LIKE-DISLIKE - PARTY C
+Q9d.     >>> LIKE-DISLIKE - PARTY D
+Q9e.     >>> LIKE-DISLIKE - PARTY E
+Q9f.     >>> LIKE-DISLIKE - PARTY F
+Q9g.     >>> LIKE-DISLIKE - PARTY G (OPTIONAL)
+Q9h.     >>> LIKE-DISLIKE - PARTY H (OPTIONAL)
+Q9i.     >>> LIKE-DISLIKE - PARTY I (OPTIONAL)
+---------------------------------------------------------------------------
+
+NOTES:   Please have the respondent rate the six parties [PARTY A through
+         PARTY F] that received the most votes.  
+
+         If appropriate, the collaborator may also include up to three 
+         additional parties [PARTY G through PARTY I] that are relevant to 
+         studying the election, regardless of the number of votes received.
+
+         It is important that interviewers properly record the volunteered 
+         responses "don't know" and "haven't heard of" when respondents 
+         offer either response.
+
+         Also, a showcard is available for this question.
+         ..................................................................
+
+TEXT:    I’d like to know what you think about each of our political 
+         parties. After I read the name of a political party, please rate 
+         it on a scale from 0 to 10, where 0 means you strongly dislike 
+         that party and 10 means that you strongly like that party. If I 
+         come to a party you haven’t heard of or you feel you do not know 
+         enough about, just say so. The first party is [PARTY A].
+         Using the same scale, where would you place, [PARTY B]?
+         Using the same scale, where would you place, [PARTY C]?
+         Using the same scale, where would you place, [PARTY D]?
+         Using the same scale, where would you place, [PARTY E]?
+         Using the same scale, where would you place, [PARTY F]?
+         ..................................................................
+
+             00. STRONGLY DISLIKE
+             01.
+             02.
+             03.
+             04.
+             05.
+             06.
+             07.
+             08.
+             09.
+             10. STRONGLY LIKE
+
+             96. HAVEN'T HEARD OF PARTY
+
+             97. VOLUNTEERED: REFUSED
+             98. DON'T KNOW ENOUGH ABOUT/DON'T KNOW WHERE TO RATE
+             
+             99. MISSING
+
+
+---------------------------------------------------------------------------
+Q10a.    >>> LIKE-DISLIKE - LEADER A
+Q10b.    >>> LIKE-DISLIKE - LEADER B
+Q10c.    >>> LIKE-DISLIKE - LEADER C
+Q10d.    >>> LIKE-DISLIKE - LEADER D
+Q10e.    >>> LIKE-DISLIKE - LEADER E
+Q10f.    >>> LIKE-DISLIKE - LEADER F
+Q10g.    >>> LIKE-DISLIKE - LEADER G (OPTIONAL)
+Q10h.    >>> LIKE-DISLIKE - LEADER H (OPTIONAL)
+Q10i.    >>> LIKE-DISLIKE - LEADER I (OPTIONAL)
+---------------------------------------------------------------------------
+
+NOTES:   This question set should be asked in all studies. Ask the
+         questions in studies of parliamentary elections, and ask the
+         questions in studies of presidential elections.
+
+         Candidates/leaders to be rated should be the leaders of the 
+         parties rated in question set Q9a-Q9i.
+
+         It is important that interviewers properly record the volunteered
+         responses "don't know" and "haven't heard of" when respondents 
+         offer either response.
+
+         Also, a showcard is available for this question.
+         ..................................................................
+
+TEXT:    And what do you think of the presidential candidates/party 
+         leaders? After I read the name of a presidential candidate/party  
+         leader, please rate them on a scale from 0 to 10, where 0 means 
+         you strongly dislike that candidate and 10 means that you strongly
+         like that candidate. If I come to a presidential candidate/party 
+         leader you haven’t heard of or you feel you do not know enough 
+         about, just say so. The first is [LEADER A].
+         Using the same scale, where would you place, [LEADER B]?
+         Using the same scale, where would you place, [LEADER C]?
+         Using the same scale, where would you place, [LEADER D]?
+         Using the same scale, where would you place, [LEADER E]?
+         Using the same scale, where would you place, [LEADER F]?
+         ..................................................................
+
+             00. STRONGLY DISLIKE
+             01.
+             02.
+             03.
+             04.
+             05.
+             06.
+             07.
+             08.
+             09.
+             10. STRONGLY LIKE
+
+             96. HAVEN'T HEARD OF LEADER
+
+             97. VOLUNTEERED: REFUSED
+             98. DON'T KNOW ENOUGH ABOUT/DON'T KNOW WHERE TO RATE
+             
+             99. MISSING
+
+
+---------------------------------------------------------------------------
+Q11a.    >>> LEFT-RIGHT - PARTY A
+Q11b.    >>> LEFT-RIGHT - PARTY B
+Q11c.    >>> LEFT-RIGHT - PARTY C
+Q11d.    >>> LEFT-RIGHT - PARTY D
+Q11e.    >>> LEFT-RIGHT - PARTY E
+Q11f.    >>> LEFT-RIGHT - PARTY F
+Q11g.    >>> LEFT-RIGHT - PARTY G (OPTIONAL)
+Q11h.    >>> LEFT-RIGHT - PARTY H (OPTIONAL)
+Q11i.    >>> LEFT-RIGHT - PARTY I (OPTIONAL)
+---------------------------------------------------------------------------
+
+NOTES:   The parties evaluated in this question set should be the same 
+         parties as were asked about in question set Q9a-Q9i.
+         
+         Collaborators should ask the left-right scale questions, even 
+         if left-right is not considered to be meaningful/important/widely 
+         understood in the area being studied.
+
+         If the national collaborator team feels that administering 
+         this question set will cause important or serious issues with
+         respect to the conduct of the survey, they should discuss these
+         issues with the CSES Secretariat in advance.
+         
+         Also, a showcard is available for this question.
+         ..................................................................
+
+TEXT:    In politics people sometimes talk of left and right. Where 
+         would you place [PARTY A] on a scale from 0 to 10 where 0 means 
+         the left and 10 means the right?
+         Using the same scale, where would you place [PARTY B]?
+         Where would you place [PARTY C]?
+         Where would you place [PARTY D]?
+         Where would you place [PARTY E]?
+         Where would you place [PARTY F]?
+         ..................................................................
+
+             00. LEFT
+             01.
+             02.
+             03.
+             04.
+             05.
+             06.
+             07.
+             08.
+             09.
+             10. RIGHT
+
+             95. VOLUNTEERED: HAVEN'T HEARD OF LEFT-RIGHT
+             96. VOLUNTEERED: HAVEN'T HEARD OF PARTY
+             97. VOLUNTEERED: REFUSED
+             98. VOLUNTEERED: DON'T KNOW WHERE TO PLACE
+             
+             99. MISSING
+
+
+---------------------------------------------------------------------------
+Q12.     >>> LEFT-RIGHT - SELF
+---------------------------------------------------------------------------
+
+NOTES:   Collaborators should ask the left-right scale questions, even 
+         if left-right is not considered to be meaningful/important/widely 
+         understood in the area being studied.
+
+         If the national collaborator team feels that administering 
+         this question will cause important or serious issues with
+         respect to the conduct of the survey, they should discuss these
+         issues with the CSES Secretariat in advance.
+
+         Also, a showcard is available for this question.
+         ..................................................................
+
+TEXT:    Where would you place yourself on this scale?
+         ..................................................................
+
+             00. LEFT
+             01.
+             02.
+             03.
+             04.
+             05.
+             06.
+             07.
+             08.
+             09.
+             10. RIGHT
+
+             95. VOLUNTEERED: HAVEN'T HEARD OF LEFT-RIGHT
+             97. VOLUNTEERED: REFUSED
+             98. VOLUNTEERED: DON'T KNOW WHERE TO PLACE
+             
+             99. MISSING
+
+
+---------------------------------------------------------------------------
+Q13a.    >>> OPTIONAL ALTERNATIVE SCALE - PARTY A
+Q13b.    >>> OPTIONAL ALTERNATIVE SCALE - PARTY B
+Q13c.    >>> OPTIONAL ALTERNATIVE SCALE - PARTY C
+Q13d.    >>> OPTIONAL ALTERNATIVE SCALE - PARTY D
+Q13e.    >>> OPTIONAL ALTERNATIVE SCALE - PARTY E
+Q13f.    >>> OPTIONAL ALTERNATIVE SCALE - PARTY F
+Q13g.    >>> OPTIONAL ALTERNATIVE SCALE - PARTY G (OPTIONAL)
+Q13h.    >>> OPTIONAL ALTERNATIVE SCALE - PARTY H (OPTIONAL)
+Q13i.    >>> OPTIONAL ALTERNATIVE SCALE - PARTY I (OPTIONAL)
+---------------------------------------------------------------------------
+
+NOTES:   In most national contexts, the left-right dimension will be the 
+         single best ideological summary of the current issue conflicts 
+         in a society. Where this is known not to be the case, a more 
+         pertinent dimension of ideological conflict (like the 
+         independence-integration dimension in Taiwan) might be used in
+         addition to the left-right placement scales. 
+ 
+         So where left-right is not considered meaningful/important/widely 
+         understood, IN ADDITION TO ASKING THE LEFT-RIGHT QUESTION, 
+         the collaborator has the option of also administering a second 
+         scale (of 11 points: 0-10) which is thought to best summarize 
+         the main ideological division in the country.
+
+         The parties evaluated in this question set should be the same 
+         parties as were asked about in question set Q9a-Q9i.
+         ..................................................................
+
+TEXT:    In politics people sometimes talk of [SCALE VALUE AT POINT 0] 
+         and [SCALE VALUE AT POINT 10]. Where would you place [PARTY A] on 
+         a scale from 0 to 10 where 0 means [SCALE VALUE AT POINT 0] and 
+         10 means [SCALE VALUE AT POINT 10]?
+         Using the same scale, where would you place [PARTY B]?
+         Where would you place [PARTY C]?
+         Where would you place [PARTY D]?
+         Where would you place [PARTY E]?
+         Where would you place [PARTY F]?
+         ..................................................................
+
+             00. [SCALE VALUE AT POINT 0]
+             01.
+             02.
+             03.
+             04.
+             05.
+             06.
+             07.
+             08.
+             09.
+             10. [SCALE VALUE AT POINT 10] 
+
+             95. VOLUNTEERED: HAVEN'T HEARD OF [SCALE]
+             96. VOLUNTEERED: HAVEN'T HEARD OF PARTY
+             97. VOLUNTEERED: REFUSED
+             98. VOLUNTEERED: DON'T KNOW WHERE TO PLACE
+             
+             99. MISSING
+
+
+---------------------------------------------------------------------------
+Q14.     >>> OPTIONAL ALTERNATIVE SCALE - SELF
+---------------------------------------------------------------------------
+
+NOTES:   In most national contexts, the left-right dimension will be the 
+         single best ideological summary of the current issue conflicts 
+         in a society. Where this is known not to be the case a more 
+         pertinent dimension of ideological conflict (like the 
+         independence-integration dimension in Taiwan) might be used in
+         addition to the left-right placement scales. 
+
+         So where left-right is not considered meaningful/important/widely 
+         understood, IN ADDITION TO ASKING THE LEFT-RIGHT QUESTION, 
+         the collaborator has the option of also administering a second 
+         scale (of 11 points: 0-10) which is thought to best summarize 
+         the main ideological division in the country.
+         ..................................................................
+
+TEXT:    Where would you place yourself on this scale?
+         ..................................................................
+
+             00. [SCALE VALUE AT POINT 0]
+             01.
+             02.
+             03.
+             04.
+             05.
+             06.
+             07.
+             08.
+             09.
+             10. [SCALE VALUE AT POINT 10]
+
+             95. VOLUNTEERED: HAVEN'T HEARD OF [SCALE]
+             97. VOLUNTEERED: REFUSED
+             98. VOLUNTEERED: DON'T KNOW WHERE TO PLACE
+             
+             99. MISSING
+
+
+---------------------------------------------------------------------------
+Q15.     >>> SATISFACTION WITH DEMOCRATIC PROCESS
+---------------------------------------------------------------------------
+
+TEXT:    On the whole, are you very satisfied, fairly satisfied, not
+         very satisfied, or not at all satisfied with the way democracy
+         works in [COUNTRY]?
+         ..................................................................
+
+             1. VERY SATISFIED
+             2. FAIRLY SATISFIED
+             4. NOT VERY SATISFIED
+             5. NOT AT ALL SATISFIED
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+
+             9. MISSING             
+
+
+---------------------------------------------------------------------------
+Q16.     >>> ARE YOU CLOSE TO ANY POLITICAL PARTY
+---------------------------------------------------------------------------
+
+TEXT:    Do you usually think of yourself as close to any particular party?
+         ..................................................................
+
+             1. YES  -> GO TO Q16b
+             5. NO
+
+             7. VOLUNTEERED: REFUSED    
+             8. VOLUNTEERED: DON'T KNOW
+             
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q16a.    >>> DO YOU FEEL CLOSER TO ONE PARTY
+---------------------------------------------------------------------------
+
+TEXT:    Do you feel yourself a little closer to one of the political
+         parties than the others?
+         ..................................................................
+
+             1. YES
+             5. NO  -> GO TO Q17
+
+             7. VOLUNTEERED: REFUSED    -> GO TO Q17
+             8. VOLUNTEERED: DON'T KNOW -> GO TO Q17
+             
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q16b.    >>> WHICH PARTY DO YOU FEEL CLOSEST TO
+---------------------------------------------------------------------------
+
+NOTES:   Only respondents who answered "YES" at Q16 or Q16a should receive
+         this question. Other respondents should be coded as MISSING for
+         this question.
+         ..................................................................
+         
+TEXT:    Which party do you feel closest to?
+         ..................................................................
+
+             01-95. [PLEASE PROVIDE PARTY CODES]
+
+             97.    VOLUNTEERED: REFUSED    -> GO TO Q17
+             98.    VOLUNTEERED: DON'T KNOW -> GO TO Q17
+             
+             99.    MISSING
+
+
+---------------------------------------------------------------------------
+Q16c.   >>> DEGREE OF CLOSENESS TO THIS PARTY
+---------------------------------------------------------------------------
+
+NOTES:   Only respondents who mentioned a party at Q16b should receive this
+         question. Other respondents should be coded as MISSING for this 
+         question.
+         ..................................................................
+
+TEXT:    Do you feel very close to this party, somewhat close, or not very
+         close?
+         ..................................................................
+
+             1. VERY CLOSE
+             2. SOMEWHAT CLOSE
+             3. NOT VERY CLOSE
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+             
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q17.     >>> MOBILIZATION: INSTITUTIONAL CONTACT
+---------------------------------------------------------------------------
+
+NOTES:   The following definitions are provided as guidance for translating
+         questions Q17 through Q19 into other languages, and to assist in
+         training interviewers on the meaning of the terms.
+
+         "Blogs" and "micro-blogs" are both news and information sites that
+         provide regular (daily) updates from parties/politicians about
+         their schedules and responses to events. 
+
+         "Web" refers to the World Wide Web,
+         
+         "Online" covers any type of communication or contact occurring via
+         the World Wide Web, Internet, or digital media. 
+         ..................................................................
+         
+TEXT:    During the campaign, did a party or candidate contact you in
+         person or by any other means?
+         ..................................................................
+         
+             1. YES
+             5. NO  -> GO TO Q18
+
+             7. VOLUNTEERED: REFUSED     -> GO TO Q18
+             8. VOLUNTEERED: DON’T KNOW  -> GO TO Q18
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q17a.    >>> MOBILIZATION: INSTITUTIONAL CONTACT - IN PERSON
+---------------------------------------------------------------------------
+
+NOTES:   Only respondents who answered "YES" at Q17 should receive this
+         question. Other respondents should be coded as MISSING for this
+         question.
+         ..................................................................
+         
+TEXT:    Did they contact you in person, face-to-face?
+         ..................................................................
+         
+HELP:    If the respondent mentions "in the street" or "at my house" then
+         please record the answer as "yes".
+         ..................................................................
+
+             1. YES
+             5. NO
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q17b.    >>> MOBILIZATION: INSTITUTIONAL CONTACT - BY MAIL
+---------------------------------------------------------------------------
+
+NOTES:   Only respondents who answered "YES" at Q17 should receive this
+         question. Other respondents should be coded as MISSING for this
+         question.
+         ..................................................................
+         
+TEXT:    Did they contact you by mail?
+         ..................................................................
+
+HELP:    If the respondent mentions a "leaflet posted to my home" then
+         please record the answer as "yes".  
+         The question is not intended to include "electronic mail" or 
+         "email" (these are asked about in a later question).
+         ..................................................................
+
+             1. YES
+             5. NO
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q17c.    >>> MOBILIZATION: INSTITUTIONAL CONTACT - BY PHONE
+---------------------------------------------------------------------------
+
+NOTES:   Only respondents who answered "YES" at Q17 should receive this
+         question. Other respondents should be coded as MISSING for this
+         question.
+         ..................................................................
+         
+TEXT:    Did they contact you by phone?
+         ..................................................................
+
+HELP:    If the respondent mentions a "call to my landline or mobile" then
+         please record the answer as "yes".  
+         This question is not intended to include contacts by "text
+         message" or "SMS" as these are asked about in the next question.
+         ..................................................................
+
+             1. YES
+             5. NO
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q17d.    >>> MOBILIZATION: INSTITUTIONAL CONTACT - BY TEXT MESSAGE
+---------------------------------------------------------------------------
+
+NOTES:   Only respondents who answered "YES" at Q17 should receive this
+         question. Other respondents should be coded as MISSING for this
+         question.
+         ..................................................................
+         
+TEXT:    Did they contact you by text message or SMS?
+         ..................................................................
+
+             1. YES
+             5. NO
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+             
+
+---------------------------------------------------------------------------
+Q17e.    >>> MOBILIZATION: INSTITUTIONAL CONTACT - BY EMAIL
+---------------------------------------------------------------------------
+
+NOTES:   Only respondents who answered "YES" at Q17 should receive this
+         question. Other respondents should be coded as MISSING for this
+         question.
+         ..................................................................         
+         
+TEXT:    Did they contact you by email?
+         ..................................................................
+
+             1. YES
+             5. NO
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q17f.    >>> MOBILIZATION: INSTITUTIONAL CONTACT - SOCIAL NETWORK OR WEB
+---------------------------------------------------------------------------
+
+NOTES:   Only respondents who answered "YES" at Q17 should receive this
+         question. Other respondents should be coded as MISSING for this
+         question.
+
+         Collaborators, please add additional local examples of social
+         network and microblogging sites, as appropriate, to the
+         interviewer instruction (HELP instruction).
+         ..................................................................
+         
+TEXT:    Did they contact you through a social network site or 
+         other Web-based method?
+         ..................................................................
+
+HELP:    If the respondent mentions Facebook, or a microblogging site such 
+         as Twitter, then please record the answer as "yes".
+         ..................................................................
+
+             1. YES
+             5. NO
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING          
+
+
+---------------------------------------------------------------------------
+Q17g.    >>> MOBILIZATION: INSTITUTIONAL CONTACT - WHO - MULTIPLE MENTIONS
+---------------------------------------------------------------------------
+
+NOTES:   Only respondents who answered "YES" at Q17 should receive this
+         question. Other respondents should be coded as MISSING for this
+         question.
+         
+         Multiple answers are allowed for this question. Please record
+         all of the parties or candidates that are mentioned by the
+         respondent.
+         ..................................................................
+
+TEXT:    Which [party or parties/candidate or candidates] contacted you
+         by any of these means?
+         ..................................................................
+
+HELP:    If the respondent answers "all [parties/candidates]" please probe
+         the respondent for the names of the specific [parties/candidates].
+         ..................................................................
+
+             01-95. [PLEASE PROVIDE PARTY/CANDIDATE CODES]
+
+             97.    VOLUNTEERED: REFUSED
+             98.    VOLUNTEERED: DON'T KNOW
+
+             99.    MISSING
+             
+
+---------------------------------------------------------------------------
+Q18.     >>> MOBILIZATION: PERSONAL CONTACT
+---------------------------------------------------------------------------
+
+TEXT:    During the campaign, did a friend, family member, neighbor, work
+         colleague or other acquaintance try to persuade you to vote for a
+         particular party or candidate? 
+         ..................................................................
+
+             1. YES
+             5. NO  -> GO TO Q19
+
+             7. VOLUNTEERED: REFUSED     -> GO TO Q19
+             8. VOLUNTEERED: DON’T KNOW  -> GO TO Q19
+
+             9. MISSING
+
+             
+---------------------------------------------------------------------------
+Q18a.    >>> MOBILIZATION: PERSONAL CONTACT - IN PERSON
+---------------------------------------------------------------------------
+
+NOTES:   Only respondents who answered "YES" at Q18 should receive this
+         question. Other respondents should be coded as MISSING for this
+         question.
+         ..................................................................
+         
+TEXT:    Did they try to persuade you in person, face-to-face?
+         ..................................................................
+         
+HELP:    If the respondent mentions "in the street" or "at my house" then
+         please record the answer as "yes".
+         ..................................................................
+
+             1. YES
+             5. NO
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q18b.    >>> MOBILIZATION: PERSONAL CONTACT - BY MAIL
+---------------------------------------------------------------------------
+
+NOTES:   Only respondents who answered "YES" at Q18 should receive this
+         question. Other respondents should be coded as MISSING for this
+         question.
+         ..................................................................
+         
+TEXT:    Did they try to persuade you by mail?
+         ..................................................................
+
+HELP:    If the respondent mentions a "leaflet posted to my home" then
+         please record the answer as "yes".         
+         The question is not intended to include "electronic mail" or 
+         "email" (these are asked about in a later question).         
+         ..................................................................
+
+             1. YES
+             5. NO
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q18c.    >>> MOBILIZATION: PERSONAL CONTACT - BY PHONE
+---------------------------------------------------------------------------
+
+NOTES:   Only respondents who answered "YES" at Q18 should receive this
+         question. Other respondents should be coded as MISSING for this
+         question.
+         ..................................................................
+         
+TEXT:    Did they try to persuade you by phone?
+         ..................................................................
+
+HELP:    If the respondent mentions a "call to my landline or mobile" then
+         please record the answer as "yes".
+         This question is not intended to include persuasion by "text
+         message" or "SMS" as these are asked about in the next question.         
+         ..................................................................
+
+             1. YES
+             5. NO
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q18d.    >>> MOBILIZATION: PERSONAL CONTACT - BY TEXT MESSAGE
+---------------------------------------------------------------------------
+
+NOTES:   Only respondents who answered "YES" at Q18 should receive this
+         question. Other respondents should be coded as MISSING for this
+         question.
+         ..................................................................
+         
+TEXT:    Did they try to persuade you by text message or SMS?
+         ..................................................................
+
+             1. YES
+             5. NO
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+             
+
+---------------------------------------------------------------------------
+Q18e.    >>> MOBILIZATION: PERSONAL CONTACT - BY EMAIL
+---------------------------------------------------------------------------
+
+NOTES:   Only respondents who answered "YES" at Q18 should receive this
+         question. Other respondents should be coded as MISSING for this
+         question.
+         ..................................................................         
+         
+TEXT:    Did they try to persuade you by email?
+         ..................................................................
+
+             1. YES
+             5. NO
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q18f.    >>> MOBILIZATION: PERSONAL CONTACT - SOCIAL NETWORK OR WEB
+---------------------------------------------------------------------------
+
+NOTES:   Only respondents who answered "YES" at Q18 should receive this
+         question. Other respondents should be coded as MISSING for this
+         question.
+
+         Collaborators, please add additional local examples of social
+         network and microblogging sites, as appropriate, to the
+         interviewer instruction (HELP instruction).
+         ..................................................................
+         
+TEXT:    Did they try to persuade you through a social network site or
+         other Web-based method?
+         ..................................................................
+
+HELP:    If the respondent mentions Facebook, or a microblogging site such 
+         as Twitter, then please record the answer as "yes".
+         ..................................................................
+
+             1. YES
+             5. NO
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING          
+             
+
+---------------------------------------------------------------------------
+Q19.     >>> MOBILIZATION: SIGN UP FOR ONLINE INFORMATION OR ALERTS
+---------------------------------------------------------------------------
+
+NOTES:   Collaborators, please add additional local examples of social
+         network and microblogging sites, as appropriate, to the
+         interviewer instruction (HELP instruction).
+         ..................................................................
+         
+TEXT:    Prior to or during the campaign, did you use the Internet or your
+         mobile phone to sign up for information or alerts from a party 
+         or candidate?
+         ..................................................................
+
+HELP:    If the respondent mentions "by SMS", "e-newsletters", text 
+         messages, "RSS news", a blog feed, email, "on the Web", 
+         a microblogging site such as Twitter, or a social network site
+         such as Facebook, then please record the answer as "yes".
+         ..................................................................
+         
+             1. YES
+             5. NO
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q20a.    >>> POLITICAL INFORMATION ITEM - 1ST
+---------------------------------------------------------------------------
+
+NOTES:   The items in question set Q20a-Q20d are designed to indicate the
+         respondent's general political awareness. Their intent is to
+         provide a combined general assessment of the respondent's
+         attention to politics, more than of their knowledge or familiarity
+         with specific aspects of politics. 
+
+         For each question, please provide CSES the original question
+         with the full response set, as provided to the respondent.
+         Additionally, please let CSES know which answer is the "correct"
+         answer out of the four choices provided to the respondent. In the
+         variable provided to CSES, CSES wants to receive the actual answer
+         that the respondent provided, not whether the answer was correct
+         or not. If the order of the response codes was randomized, we
+         would also appreciate receiving an additional variable indicating
+         the randomization for each respondent.
+
+         In Q20a, one name in the list should be the Finance Minister that
+         was in office at the moment of the election. The three other
+         names in the list should be three other high-profile Cabinet 
+         Ministers in that previous government.
+         ..................................................................
+
+TEXT:    Which of these persons was the Finance Minister before the recent
+         election - [CABINET MINISTER NAME - FIRST CHOICE], [CABINET
+         MINISTER NAME - SECOND CHOICE], [CABINET MINISTER NAME - THIRD
+         CHOICE], or [CABINET MINISTER NAME - FOURTH CHOICE]?
+         ..................................................................
+
+             1. [CABINET MINISTER NAME - FIRST CHOICE]
+             2. [CABINET MINISTER NAME - SECOND CHOICE]
+             3. [CABINET MINISTER NAME - THIRD CHOICE]
+             4. [CABINET MINISTER NAME - FOURTH CHOICE]
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q20b.    >>> POLITICAL INFORMATION ITEM - 2ND
+---------------------------------------------------------------------------
+
+NOTES:   In the options, please list each of the unemployment rate choices 
+         in the format "XX.X%" - for instance, 4.5% or 10.1%.
+
+         After populating one of the options with the actual current
+         unemployment rate in the country of your election study, please 
+         then add or subtract 2.0% from that amount until the other three 
+         options are populated with incorrect alternatives.
+         
+         Please list the options in increasing order.
+         
+         For instance, if the actual unemployment rate is 8.7%, any of 
+         these example choice sets would be acceptable:
+         
+          2.7%,  4.7%,  6.7%,  8.7%
+          4.7%,  6.7%,  8.7%, 10.7%
+          6.7%,  8.7%, 10.7%, 12.7%
+          8.7%, 10.7%, 12.7%, 14.7%         
+          
+         In the question text where "[DATE]" appears, please provide the
+         date (day/month/year) for the latest official unemployment rate
+         that is available for the country as of the beginning of the
+         data collection period for the survey that includes the CSES 
+         Module.
+         
+         When depositing the election study with the CSES Secretariat, it
+         would be helpful for the collaborator to let the CSES Secretariat 
+         know the source of the unemployment rate used in the question.
+         ..................................................................
+         
+TEXT:    What was the current unemployment rate in [COUNTRY] as of [DATE]
+         - [UNEMPLOYMENT RATE - FIRST CHOICE], [UNEMPLOYMENT RATE - SECOND 
+         CHOICE], [UNEMPLOYMENT RATE - THIRD CHOICE], or [UNEMPLOYMENT
+         RATE - FOURTH CHOICE]?
+         ..................................................................
+
+             1. [UNEMPLOYMENT RATE - FIRST CHOICE]
+             2. [UNEMPLOYMENT RATE - SECOND CHOICE]
+             3. [UNEMPLOYMENT RATE - THIRD CHOICE]
+             4. [UNEMPLOYMENT RATE - FOURTH CHOICE]
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q20c.    >>> POLITICAL INFORMATION ITEM - 3RD
+---------------------------------------------------------------------------
+
+NOTES:   Please present the four party, alliance, and coalition options to
+         the respondent in alphabetical order.
+         
+         If the election is a presidential election, collaborators may
+         wish to list candidates instead.  
+         
+         If there are multiple rounds in the election, please indicate
+         the round of the election (if appropriate) in the question, and 
+         please let CSES know which round was asked about.
+         ..................................................................
+         
+TEXT:    Which [PARTY, ALLIANCE, OR COALITION] came in second in seats
+         in the [NAME OF THE LOWER HOUSE IN BICAMERAL SYSTEMS; OR ASSEMBLY,
+         PARLIAMENT, OR CONGRESS IN UNICAMERAL SYSTEMS] - [PARTY, ALLIANCE,
+         OR COALITION - FIRST CHOICE], [PARTY, ALLIANCE, OR COALITION -
+         SECOND CHOICE], [PARTY, ALLIANCE, OR COALITION - THIRD CHOICE], 
+         or [PARTY, ALLIANCE, OR COALITION - FOURTH CHOICE]?
+         ..................................................................
+
+             1. [PARTY, ALLIANCE, OR COALITION - FIRST CHOICE]
+             2. [PARTY, ALLIANCE, OR COALITION - SECOND CHOICE]
+             3. [PARTY, ALLIANCE, OR COALITION - THIRD CHOICE]
+             4. [PARTY, ALLIANCE, OR COALITION - FOURTH CHOICE]
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q20d.    >>> POLITICAL INFORMATION ITEM - 4TH
+---------------------------------------------------------------------------
+
+NOTES:   As of the publication of this questionnaire, Ban Ki-moon is the
+         Secretary-General of the United Nations, but his term expires on
+         December 31, 2011. If a different Secretary-General of the United
+         Nations is in place when your election study is run, please 
+         replace the name "Kurt Waldheim" in option 2 with the name of the
+         current Secretary-General of the United Nations.
+         ..................................................................
+
+TEXT:    Who is the current Secretary-General of the United Nations -
+         Kofi Annan, Kurt Waldheim, Ban Ki-moon, or Boutros Boutros-Ghali?
+         ..................................................................
+
+             1. KOFI ANNAN
+             2. KURT WALDHEIM
+             3. BAN KI-MOON
+             4. BOUTROS BOUTROS-GHALI
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q21.     >>> HOUSEHOLD INCOME IN THE NEXT TWELVE MONTHS
+---------------------------------------------------------------------------
+
+TEXT:    The next question is about your household's income. 
+
+         How likely or unlikely do you think it is that your household's
+         income could be severely reduced IN THE NEXT TWELVE MONTHS? Very 
+         likely, somewhat likely, somewhat unlikely, or very unlikely?
+         ..................................................................
+
+             1. VERY LIKELY
+             2. SOMEWHAT LIKELY
+             4. SOMEWHAT UNLIKELY
+             5. VERY UNLIKELY
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q22a.    >>> OWNERSHIP: RESIDENCE
+---------------------------------------------------------------------------
+
+NOTE:    If the national collaborator team feels that questions Q22a-Q22d 
+         will be considered especially sensitive topics for the respondent
+         and thus cause important or serious issues with respect to the
+         conduct of the survey, it is allowable to move the four questions
+         to the end of the survey interview.
+                  
+TEXT:    Do you or a member of your household own a residence - for
+         example, a home or an apartment?
+         ..................................................................
+
+HELP:    If the respondent mentions a "beach house" or "country house" then
+         please record the answer as "yes".
+         ..................................................................
+
+             1. YES
+             5. NO
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q22b.    >>> OWNERSHIP: BUSINESS OR PROPERTY OR FARM OR LIVESTOCK
+---------------------------------------------------------------------------
+
+TEXT:    Do you or a member of your household own a business, a piece of
+         property, a farm, or livestock?
+         ..................................................................
+
+HELP:    If the respondent mentions a "piece of land" or "rental property" 
+         then please record the answer as "yes".
+         ..................................................................
+
+             1. YES
+             5. NO
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q22c.    >>> OWNERSHIP: STOCKS OR BONDS
+---------------------------------------------------------------------------
+
+TEXT:    Do you or a member of your household own stocks or bonds?
+         ..................................................................
+
+             1. YES
+             5. NO
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q22d.    >>> OWNERSHIP: SAVINGS
+---------------------------------------------------------------------------
+
+TEXT:    Do you or a member of your household have any savings?
+         ..................................................................
+
+             1. YES
+             5. NO
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+             
+   
+---------------------------------------------------------------------------
+Q23a.    >>> FIND ANOTHER JOB - RESPONDENT
+---------------------------------------------------------------------------
+
+NOTES:   A respondent should only receive this question if the respondent
+         is currently employed. If the respondent is not currently 
+         employed, the answer to this question should be coded as MISSING.
+
+         While this question is considered part of the CSES Module, to
+         accommodate the aforementioned skip pattern, collaborators are 
+         asked to please place this question somewhere after their question
+         indicating the "current employment status" of the respondent,
+         a question which is normally included in the demographics section 
+         of a questionnaire.
+         ..................................................................
+
+TEXT:    If you lost your job, how easy or difficult would it be to find
+         another job IN THE NEXT TWELVE MONTHS? Very easy, somewhat easy, 
+         somewhat difficult, or very difficult?
+         ..................................................................
+
+             1. VERY EASY
+             2. SOMEWHAT EASY
+             4. SOMEWHAT DIFFICULT
+             5. VERY DIFFICULT
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+Q23b.    >>> FIND ANOTHER JOB - SPOUSE/PARTNER
+---------------------------------------------------------------------------
+
+NOTES:   A respondent should only receive this question if the respondent's
+         spouse/partner is currently employed. If the respondent's
+         spouse/partner is not currently employed, the answer to this
+         question should be coded as MISSING.
+
+         While this question is considered part of the CSES Module, to
+         accommodate the aforementioned skip pattern, collaborators are 
+         asked to please place this question somewhere after their question
+         indicating the "current employment status" of the respondent's
+         spouse/partner, a question which is normally included in the 
+         demographics section of a questionnaire.
+         ..................................................................
+
+TEXT:    If your spouse/partner lost their job, how easy or difficult would
+         it be for them to find another job IN THE NEXT TWELVE MONTHS? Very
+         easy, somewhat easy, somewhat difficult, or very difficult?
+         ..................................................................
+
+             1. VERY EASY
+             2. SOMEWHAT EASY
+             4. SOMEWHAT DIFFICULT
+             5. VERY DIFFICULT
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON’T KNOW
+
+             9. MISSING
+
+
+===========================================================================
+))) CSES MODULE 3 QUESTIONNAIRE: DEMOGRAPHIC VARIABLES 
+===========================================================================
+
+NOTES:    Collaborators are asked to provide data on background 
+          (demographic) characteristics of respondents, coded to an agreed 
+          upon set of standards as indicated in this section. 
+          There is great international variation in the ways that 
+          collaborators will go about soliciting information on the 
+          background characteristics of their respondents. The 
+          objective here is not standardization of the way collaborators
+          ask these background questions, but instead, standardization to 
+          a common, cross-national scheme for coding each variable. 
+
+
+---------------------------------------------------------------------------
+D1a.     >>> DATE OF BIRTH OF RESPONDENT - MONTH
+D1b.     >>> DATE OF BIRTH OF RESPONDENT - YEAR
+---------------------------------------------------------------------------
+
+NOTES:   These variables should report the month of birth, and year of
+         birth, of the respondent.  
+         ..................................................................
+
+             MONTH
+
+             01. JANUARY
+             02. FEBRUARY
+             03. MARCH
+             04. APRIL
+             05. MAY
+             06. JUNE
+             07. JULY
+             08. AUGUST
+             09. SEPTEMBER
+             10. OCTOBER
+             11. NOVEMBER
+             12. DECEMBER
+
+             99. MISSING
+
+
+             YEAR
+
+             1800-2016. YEAR
+
+             9999.      MISSING
+
+
+---------------------------------------------------------------------------
+D2.      >>> GENDER
+---------------------------------------------------------------------------
+
+NOTES:   This item should report the gender of the respondent.
+         ..................................................................
+
+             1. MALE
+             2. FEMALE
+
+             7. VOLUNTEERED: REFUSED
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+D3.      >>> EDUCATION
+---------------------------------------------------------------------------
+
+NOTES:   This item should report the respondent's highest level of 
+         education that has been completed.
+         
+         Please classify respondents according to UNESCO's 2011 
+         International Standard Classification of Education (ISCED 2011).
+         
+         An English-language description of the ISCED 2011 standard can be
+         found here:
+         http://www.uis.unesco.org/Education/Documents/ISCED_2011_EN.pdf         
+         ..................................................................
+
+             96. NONE (NO EDUCATION)
+             
+             01. ISCED LEVEL 0 - EARLY CHILDHOOD EDUCATION
+             02. ISCED LEVEL 1 - PRIMARY
+             03. ISCED LEVEL 2 - LOWER SECONDARY
+             04. ISCED LEVEL 3 - UPPER SECONDARY
+             05. ISCED LEVEL 4 - POST-SECONDARY NON-TERTIARY
+             06. ISCED LEVEL 5 - SHORT-CYCLE TERTIARY
+             07. ISCED LEVEL 6 - BACHELOR OR EQUIVALENT
+             08. ISCED LEVEL 7 - MASTER OR EQUIVALENT
+             09. ISCED LEVEL 8 - DOCTORAL OR EQUIVALENT
+
+             97. VOLUNTEERED: REFUSED
+             98. VOLUNTEERED: DON'T KNOW
+             
+             99. MISSING
+             
+
+---------------------------------------------------------------------------
+D4.      >>> MARITAL OR CIVIL UNION STATUS
+---------------------------------------------------------------------------
+
+NOTES:   This variable reports the respondent's current marital or civil
+         union status. For instance, a person who is both divorced and 
+         living as married would be coded 1.
+         ..................................................................
+
+             1. MARRIED OR LIVING TOGETHER AS MARRIED
+             2. WIDOWED
+             3. DIVORCED OR SEPARATED (MARRIED BUT SEPARATED / NOT LIVING
+                WITH LEGAL SPOUSE)
+             4. SINGLE, NEVER MARRIED
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+             
+             9. MISSING
+       
+
+---------------------------------------------------------------------------
+D5.      >>> UNION MEMBERSHIP
+---------------------------------------------------------------------------
+
+NOTES:   This item should indicate whether or not the respondent is a 
+         member of a union.
+         ..................................................................
+
+             1. R IS MEMBER OF A UNION
+             2. R IS NOT A MEMBER OF A UNION
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+D6.      >>> UNION MEMBERSHIP OF OTHERS IN HOUSEHOLD
+---------------------------------------------------------------------------
+
+NOTES:   This item should indicate whether or not a member of the 
+         respondent's household is a member of a union.
+         ..................................................................
+
+             1. SOMEONE ELSE (OTHER THAN R) IS MEMBER OF A UNION
+             2. NO ONE ELSE (OTHER THAN R) IS A MEMBER OF A UNION
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+D7.      >>> BUSINESS OR EMPLOYERS ASSOCIATION MEMBERSHIP
+---------------------------------------------------------------------------
+
+NOTES:   This item should indicate whether or not the respondent is a 
+         member of a business or employers association.
+         ..................................................................
+
+             1. R IS A MEMBER OF A BUSINESS OR EMPLOYERS ASSOCIATION
+             2. R IS NOT A MEMBER OF A BUSINESS OR EMPLOYERS ASSOCIATION
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+D8.      >>> FARMERS ASSOCIATION MEMBERSHIP
+---------------------------------------------------------------------------
+
+NOTES:   This item should indicate whether or not the respondent is a 
+         member of a farmers association.
+         ..................................................................
+
+             1. R IS A MEMBER OF A FARMERS ASSOCIATION
+             2. R IS NOT A MEMBER OF A FARMERS ASSOCIATION
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+D9.      >>> PROFESSIONAL ASSOCIATION MEMBERSHIP
+---------------------------------------------------------------------------
+
+NOTES:   This item should indicate whether or not the respondent is a 
+         member of a professional association.
+         ..................................................................
+
+             1. R IS A MEMBER OF A PROFESSIONAL ASSOCIATION
+             2. R IS NOT A MEMBER OF A PROFESSIONAL ASSOCIATION
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+D10.     >>> CURRENT EMPLOYMENT STATUS
+---------------------------------------------------------------------------
+
+NOTES:   This item should indicate the respondent's current employment
+         status.
+         
+         Respondents who are temporarily unemployed are coded UNEMPLOYED.
+         
+         Respondents on "workfare" or enrolled in a government job
+         training program are coded EMPLOYED.
+         ..................................................................
+
+             IN LABOR FORCE:
+
+             01. EMPLOYED - FULL TIME (32 OR MORE HOURS WEEKLY)
+             02. EMPLOYED - PART TIME (15 TO LESS THAN 32 HOURS WEEKLY)
+             03. EMPLOYED - LESS THAN 15 HOURS
+             04. HELPING FAMILY MEMBER
+             05. UNEMPLOYED
+
+             NOT IN LABOR FORCE:
+
+             06. STUDENT, IN SCHOOL, IN VOCATIONAL TRAINING
+             07. RETIRED
+             08. HOUSEWIFE, HOMEMAKER, HOME DUTIES
+             09. PERMANENTLY DISABLED
+             10. OTHERS, NOT IN LABOR FORCE
+
+             97. VOLUNTEERED: REFUSED
+             98. VOLUNTEERED: DON'T KNOW
+
+             99. MISSING
+
+
+---------------------------------------------------------------------------
+D11.    >>> MAIN OCCUPATION
+---------------------------------------------------------------------------
+
+NOTES:   This item should report the respondent's main occupation, that
+         is, the job at which the respondent spends most of the time or
+         if the respondent spends an equal amount of time on two jobs, it
+         is the one from which the respondent earns the most money. For
+         respondents who are currently employed, this variable reports
+         their current occupation. For respondents who are retired or not
+         currently working, code last occupation.
+ 
+         Please classify respondents according to the three-digit version
+         of the 2008 International Standard Classification of Occupations 
+         (ISCO-08).
+
+         An English-language description of the ISCO-08 standard can be
+         found here:
+         http://
+         www.ilo.org/public/english/bureau/stat/isco/docs/resol08.pdf
+
+         While in past CSES modules a less detailed occupation code
+         was used, occupation of both the respondent and their 
+         spouse/partner is especially important to the substantive 
+         theme of CSES Module 4. CSES Module 4 analyses will significantly
+         benefit from coding of the occupation variables to three digits.     
+         
+         If the national collaborator team feels that providing the
+         three digit ISCO-08 codes will cause important or serious issues
+         with respect to the conduct of the survey, they should discuss 
+         these issues with the CSES Secretariat in advance.
+         ..................................................................         
+          
+         ISCO-08 Three Digit Classification System:
+         
+         ARMED FORCES OCCUPATIONS          
+         
+           Commissioned armed forces officers 
+
+             011. Commissioned armed forces officers
+         
+           Non-commissioned armed forces officers 
+         
+             021. Non-commissioned armed forces officers
+         
+           Armed forces occupations, other ranks 
+         
+             031. Armed forces occupations, other ranks
+        
+         MANAGERS 
+                  
+           Chief executives, senior officials and legislators            
+         
+             111. Legislators and senior officials
+             112. Managing directors and chief executives
+         
+           Administrative and commercial managers 
+         
+             121. Business services and administration managers
+             122. Sales, marketing and development managers
+
+           Production and specialized services managers 
+ 
+             131. Production managers in agriculture, forestry and 
+                  fisheries
+             132. Manufacturing, mining, construction, and distribution
+                  managers
+             133. Information and communications technology service
+                  managers
+             134. Professional services managers
+
+           Hospitality, retail and other services managers 
+      
+             141. Hotel and restaurant managers
+             142. Retail and wholesale trade managers
+             143. Other services managers
+ 
+         PROFESSIONALS
+    
+           Science and engineering professionals
+         
+             211. Physical and earth science professionals
+             212. Mathematicians, actuaries and statisticians
+             213. Life science professionals
+             214. Engineering professionals (excluding electrotechnology)
+             215. Electrotechnology engineers
+             216. Architects, planners, surveyors and designers
+         
+           Health professionals
+         
+             221. Medical doctors
+             222. Nursing and midwifery professionals
+             223. Traditional and complementary medicine professionals
+             224. Paramedical practitioners
+             225. Veterinarians
+             226. Other health professionals
+
+           Teaching professionals
+         
+             231. University and higher education teachers
+             232. Vocational education teachers
+             233. Secondary education teachers
+             234. Primary school and early childhood teachers
+             235. Other teaching professionals
+             
+           Business and administration professionals
+         
+             241. Finance professionals
+             242. Administration professionals
+             243. Sales, marketing and public relations professionals
+        
+           Information and communications technology professionals
+         
+             251. Software and applications developers and analysts
+             252. Database and network professionals
+         
+           Legal, social and cultural professionals
+         
+             261. Legal professionals
+             262. Librarians, archivists and curators
+             263. Social and religious professionals
+             264. Authors, journalists and linguists
+             265. Creative and performing artists
+         
+         TECHNICIANS AND ASSOCIATE PROFESSIONALS
+         
+           Science and engineering associate professionals
+
+             311. Physical and engineering science technicians
+             312. Mining, manufacturing and construction supervisors
+             313. Process control technicians
+             314. Life science technicians and related associate
+                  professionals
+             315. Ship and aircraft controllers and technicians
+         
+           Health associate professionals
+         
+             321. Medical and pharmaceutical technicians
+             322. Nursing and midwifery associate professionals
+             323. Traditional and complementary medicine associate
+                  professionals
+             324. Veterinary technicians and assistants
+             325. Other health associate professionals
+         
+           Business and administration associate professionals
+         
+             331. Financial and mathematical associate professionals
+             332. Sales and purchasing agents and brokers
+             333. Business services agents
+             334. Administrative and specialized secretaries
+             335. Regulatory government associate professionals
+         
+           Legal, social, cultural and related associate professionals
+         
+             341. Legal, social and religious associate professionals
+             342. Sports and fitness workers
+             343. Artistic, cultural and culinary associate professionals
+             
+           Information and communications technicians
+         
+             351. Information and communications technology operations and
+                  user support technicians
+             352. Telecommunications and broadcasting technicians
+
+         CLERICAL SUPPORT WORKERS
+         
+           General and keyboard clerks
+             
+             411. General office clerks
+             412. Secretaries (general)
+             413. Keyboard operators
+           
+           Customer services clerks
+         
+             421. Tellers, money collectors and related clerks
+             422. Client information workers
+             
+           Numerical and material recording clerks
+         
+             431. Numerical clerks
+             432. Material-recording and transport clerks
+         
+           Other clerical support workers
+         
+             441. Other clerical support workers
+         
+         SERVICE AND SALES WORKERS
+         
+           Personal service workers
+         
+             511. Travel attendants, conductors and guides
+             512. Cooks
+             513. Waiters and bartenders
+             514. Hairdressers, beauticians and related workers
+             515. Building and housekeeping supervisors
+             516. Other personal services workers
+             
+           Sales workers
+         
+             521. Street and market salespersons
+             522. Shop salespersons
+             523. Cashiers and ticket clerks
+             524. Other sales workers
+             
+           Personal care workers
+         
+             531. Child care workers and teachers' aides
+             532. Personal care workers in health services
+         
+           Protective services workers
+         
+             541. Protective services workers
+         
+         SKILLED AGRICULTURAL, FORESTRY AND FISHERY WORKERS
+         
+           Market-oriented skilled agricultural workers
+             
+             611. Market gardeners and crop growers
+             612. Animal producers
+             613. Mixed crop and animal producers
+                 
+           Market-oriented skilled forestry, fishery and hunting workers
+         
+             621. Forestry and related workers
+             622. Fishery workers, hunters and trappers
+         
+           Subsistence farmers, fishers, hunters and gatherers
+         
+             631. Subsistence crop farmers
+             632. Subsistence livestock farmers
+             633. Subsistence mixed crop and livestock farmers
+             634. Subsistence fishers, hunters, trappers and gatherers
+             
+         CRAFT AND RELATED TRADES WORKERS
+         
+           Building and related trades workers, excluding electricians
+         
+             711. Building frame and related trades workers
+             712. Building finishers and related trades workers
+             713. Painters, building structure cleaners and related trades
+                  workers
+         
+           Metal, machinery and related trades workers
+         
+             721. Sheet and structural metal workers, moulders and welders,
+                  and related workers
+             722. Blacksmiths, toolmakers and related trades workers
+             723. Machinery mechanics and repairers
+             
+           Handicraft and printing workers
+         
+             731. Handicraft workers
+             732. Printing trades workers
+         
+           Electrical and electronic trades workers
+         
+             741. Electrical equipment installers and repairers
+             742. Electronics and telecommunications installers and 
+                  repairers
+         
+           Food processing, wood working, garment and other craft and 
+           related trades workers
+         
+             751. Food processing and related trades workers
+             752. Wood treaters, cabinet-makers and related trades workers
+             753. Garment and related trades workers
+             754. Other craft and related workers
+         
+         PLANT AND MACHINE OPERATORS, AND ASSEMBLERS
+         
+           Stationary plant and machine operators
+         
+             811. Mining and mineral processing plant operators
+             812. Metal processing and finishing plant operators
+             813. Chemical and photographic products plant and machine
+                  operators
+             814. Rubber, plastic and paper products machine operators
+             815. Textile, fur and leather products machine operators
+             816. Food and related products machine operators
+             817. Wood processing and papermaking plant operators
+             818. Other stationary plant and machine operators
+         
+           Assemblers
+         
+             821. Assemblers
+         
+           Drivers and mobile plant operators
+         
+             831. Locomotive engine drivers and related workers
+             832. Car, van and motorcycle drivers
+             833. Heavy truck and bus drivers
+             834. Mobile plant operators
+             835. Ships' deck crews and related workers
+         
+         ELEMENTARY OCCUPATIONS
+         
+           Cleaners and helpers
+         
+             911. Domestic, hotel and office cleaners and helpers
+             912. Vehicle, window, laundry and other hand cleaning workers
+         
+           Agricultural, forestry and fishery labourers
+         
+             921. Agricultural, forestry and fishery labourers
+         
+           Labourers in mining, construction, manufacturing and transport
+         
+             931. Mining and construction labourers
+             932. Manufacturing labourers
+             933. Transport and storage labourers
+         
+           Food preparation assistants
+             
+             941. Food preparation assistants
+         
+           Street and related sales and service workers
+         
+             951. Street and related service workers
+             952. Street vendors (excluding food)
+         
+           Refuse workers and other elementary workers
+         
+             961. Refuse workers
+             962. Other elementary workers
+
+         OTHER CSES CODES
+
+             996. Other or non-classifiable occupations (not enough 
+                  information available to classify)
+
+             997. VOLUNTEERED: REFUSED
+             998. VOLUNTEERED: DON'T KNOW
+
+             999. MISSING
+
+
+---------------------------------------------------------------------------
+D12.     >>> SOCIO ECONOMIC STATUS 
+---------------------------------------------------------------------------
+
+NOTES:   This item should report the respondent's socio economic status.
+
+         The categories are intended to distinguish among the following
+         groups:
+          
+         01. White collar: broad occupational grouping of workers 
+         engaged in non-manual labor: Managers, salaried professionals, 
+         office workers, sales personnel, and proprietors are generally 
+         included in the category.
+          
+         02. Worker: broad occupational grouping of workers engaged in 
+         manual labor.
+         
+         03. Farmer: Normally persons self-employed in farming.
+          
+         04. Self-employed: Self-employed occupations of all kinds, 
+         excluding self-employed farming. Included, for example, are
+         entrepreneurs, shop keepers, professionals like lawyers, medical 
+         doctors, etc.
+         ..................................................................
+
+             1. WHITE COLLAR
+             2. WORKER
+             3. FARMER
+             4. SELF-EMPLOYED
+             
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+
+             9. MISSING
+
+             
+---------------------------------------------------------------------------
+D13.     >>> EMPLOYMENT TYPE - PUBLIC OR PRIVATE
+---------------------------------------------------------------------------
+
+NOTES:   This item should report whether respondent's employment is 
+         in the public, private, mixed or non-profit sector.
+         ..................................................................
+
+             1. PUBLIC SECTOR
+             2. PRIVATE SECTOR
+             3. MIXED
+             4. "THIRD SECTOR"/NON-PROFIT SECTOR
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+D14.     >>> INDUSTRIAL SECTOR
+---------------------------------------------------------------------------
+
+NOTES:   This item should report the sector of the respondent's 
+         main occupation.
+         ..................................................................
+
+             1. PRIMARY SECTOR: AGRICULTURAL, FORESTRY, FISHERIES
+             2. SECONDARY SECTOR: INDUSTRY: MINING, CONSTRUCTION
+                MANUFACTURING
+             3. TERTIARY SECTOR: TRANSPORTATION, COMMUNICATION 
+                AND OTHER PUBLIC UTILITIES, 
+                WHOLESALE TRADE, RETAIL TRADE, 
+                PERSONAL SERVICES 
+                FINANCE, INSURANCE, AND REAL ESTATE
+                BUSINESS AND REPAIR SERVICES
+                ENTERTAINMENT AND REPAIR SERVICES
+                PROFESSIONAL AND RELATED SERVICES
+                PUBLIC ADMINISTRATION 
+                ACTIVE MILITARY DUTY
+             4. OTHER
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+D15.    >>> SPOUSE/PARTNER: CURRENT EMPLOYMENT STATUS 
+---------------------------------------------------------------------------
+
+NOTES:    This item should indicate the current employment status of the
+          respondent's spouse/partner.
+          
+          Those who are temporarily unemployed are coded UNEMPLOYED.
+          
+          Those on "workfare" or enrolled in a government job
+          training program are coded EMPLOYED.
+
+         ..................................................................
+
+             IN LABOR FORCE:
+
+             01. EMPLOYED - FULL TIME (32 OR MORE HOURS WEEKLY)
+             02. EMPLOYED - PART TIME (15 TO LESS THAN 32 HOURS WEEKLY)
+             03. EMPLOYED - LESS THAN 15 HOURS
+             04. HELPING FAMILY MEMBER
+             05. UNEMPLOYED
+
+             NOT IN LABOR FORCE:
+
+             06. STUDENT, IN SCHOOL, IN VOCATIONAL TRAINING
+             07. RETIRED
+             08. HOUSEWIFE, HOMEMAKER, HOME DUTIES
+             09. PERMANENTLY DISABLED
+             10. OTHERS, NOT IN LABOR FORCE
+
+             97. VOLUNTEERED: REFUSED
+             98. VOLUNTEERED: DON'T KNOW
+
+             99. MISSING
+
+
+---------------------------------------------------------------------------
+D16.     >>> SPOUSE/PARTNER: OCCUPATION
+---------------------------------------------------------------------------
+
+NOTES:   This item should report the spouse/partner's main occupation, that
+         is, the job at which the spouse/partner spends most of the time or
+         if the spouse/partner spends an equal amount of time on two jobs,
+         it is the one from which the spouse/partner earns the most money. 
+         For spouses/partners who are currently employed, this variable
+         reports their current occupation. For spouses/partners who are
+         retired or not currently working, code last occupation.
+ 
+         Please classify respondents according to the three-digit version
+         of the 2008 International Standard Classification of Occupations 
+         (ISCO-08).
+
+         An English-language description of the ISCO-08 standard can be
+         found here:
+         http://
+         www.ilo.org/public/english/bureau/stat/isco/docs/resol08.pdf
+
+         While in past CSES modules a less detailed occupation code
+         was used, occupation of both the respondent and their 
+         spouse/partner is especially important to the substantive 
+         theme of CSES Module 4. CSES Module 4 analyses will significantly
+         benefit from coding of the occupation variables to three digits.     
+                 
+         If the national collaborator team feels that providing the
+         three digit ISCO-08 codes will cause important or serious issues
+         with respect to the conduct of the survey, they should discuss 
+         these issues with the CSES Secretariat in advance.
+         ..................................................................         
+          
+         ISCO-08 Three Digit Classification System:
+         
+         ARMED FORCES OCCUPATIONS          
+         
+           Commissioned armed forces officers 
+        
+             011. Commissioned armed forces officers
+
+           Non-commissioned armed forces officers 
+         
+             021. Non-commissioned armed forces officers
+         
+           Armed forces occupations, other ranks 
+         
+             031. Armed forces occupations, other ranks
+        
+         MANAGERS 
+                  
+           Chief executives, senior officials and legislators            
+         
+             111. Legislators and senior officials
+             112. Managing directors and chief executives
+         
+           Administrative and commercial managers 
+         
+             121. Business services and administration managers
+             122. Sales, marketing and development managers
+
+           Production and specialized services managers 
+ 
+             131. Production managers in agriculture, forestry and 
+                  fisheries
+             132. Manufacturing, mining, construction, and distribution
+                  managers
+             133. Information and communications technology service
+                  managers
+             134. Professional services managers
+
+           Hospitality, retail and other services managers 
+      
+             141. Hotel and restaurant managers
+             142. Retail and wholesale trade managers
+             143. Other services managers
+ 
+         PROFESSIONALS
+    
+           Science and engineering professionals
+         
+             211. Physical and earth science professionals
+             212. Mathematicians, actuaries and statisticians
+             213. Life science professionals
+             214. Engineering professionals (excluding electrotechnology)
+             215. Electrotechnology engineers
+             216. Architects, planners, surveyors and designers
+         
+           Health professionals
+         
+             221. Medical doctors
+             222. Nursing and midwifery professionals
+             223. Traditional and complementary medicine professionals
+             224. Paramedical practitioners
+             225. Veterinarians
+             226. Other health professionals
+
+           Teaching professionals
+         
+             231. University and higher education teachers
+             232. Vocational education teachers
+             233. Secondary education teachers
+             234. Primary school and early childhood teachers
+             235. Other teaching professionals
+             
+           Business and administration professionals
+         
+             241. Finance professionals
+             242. Administration professionals
+             243. Sales, marketing and public relations professionals
+        
+           Information and communications technology professionals
+         
+             251. Software and applications developers and analysts
+             252. Database and network professionals
+         
+           Legal, social and cultural professionals
+         
+             261. Legal professionals
+             262. Librarians, archivists and curators
+             263. Social and religious professionals
+             264. Authors, journalists and linguists
+             265. Creative and performing artists
+         
+         TECHNICIANS AND ASSOCIATE PROFESSIONALS
+         
+           Science and engineering associate professionals
+
+             311. Physical and engineering science technicians
+             312. Mining, manufacturing and construction supervisors
+             313. Process control technicians
+             314. Life science technicians and related associate
+                  professionals
+             315. Ship and aircraft controllers and technicians
+         
+           Health associate professionals
+         
+             321. Medical and pharmaceutical technicians
+             322. Nursing and midwifery associate professionals
+             323. Traditional and complementary medicine associate
+                  professionals
+             324. Veterinary technicians and assistants
+             325. Other health associate professionals
+         
+           Business and administration associate professionals
+         
+             331. Financial and mathematical associate professionals
+             332. Sales and purchasing agents and brokers
+             333. Business services agents
+             334. Administrative and specialized secretaries
+             335. Regulatory government associate professionals
+         
+           Legal, social, cultural and related associate professionals
+         
+             341. Legal, social and religious associate professionals
+             342. Sports and fitness workers
+             343. Artistic, cultural and culinary associate professionals
+             
+           Information and communications technicians
+         
+             351. Information and communications technology operations and
+                  user support technicians
+             352. Telecommunications and broadcasting technicians
+
+         CLERICAL SUPPORT WORKERS
+         
+           General and keyboard clerks
+             
+             411. General office clerks
+             412. Secretaries (general)
+             413. Keyboard operators
+           
+           Customer services clerks
+         
+             421. Tellers, money collectors and related clerks
+             422. Client information workers
+             
+           Numerical and material recording clerks
+         
+             431. Numerical clerks
+             432. Material-recording and transport clerks
+         
+           Other clerical support workers
+         
+             441. Other clerical support workers
+         
+         SERVICE AND SALES WORKERS
+         
+           Personal service workers
+         
+             511. Travel attendants, conductors and guides
+             512. Cooks
+             513. Waiters and bartenders
+             514. Hairdressers, beauticians and related workers
+             515. Building and housekeeping supervisors
+             516. Other personal services workers
+             
+           Sales workers
+         
+             521. Street and market salespersons
+             522. Shop salespersons
+             523. Cashiers and ticket clerks
+             524. Other sales workers
+             
+           Personal care workers
+         
+             531. Child care workers and teachers' aides
+             532. Personal care workers in health services
+         
+           Protective services workers
+         
+             541. Protective services workers
+         
+         SKILLED AGRICULTURAL, FORESTRY AND FISHERY WORKERS
+         
+           Market-oriented skilled agricultural workers
+             
+             611. Market gardeners and crop growers
+             612. Animal producers
+             613. Mixed crop and animal producers
+                 
+           Market-oriented skilled forestry, fishery and hunting workers
+         
+             621. Forestry and related workers
+             622. Fishery workers, hunters and trappers
+         
+           Subsistence farmers, fishers, hunters and gatherers
+         
+             631. Subsistence crop farmers
+             632. Subsistence livestock farmers
+             633. Subsistence mixed crop and livestock farmers
+             634. Subsistence fishers, hunters, trappers and gatherers
+             
+         CRAFT AND RELATED TRADES WORKERS
+         
+           Building and related trades workers, excluding electricians
+         
+             711. Building frame and related trades workers
+             712. Building finishers and related trades workers
+             713. Painters, building structure cleaners and related trades
+                  workers
+         
+           Metal, machinery and related trades workers
+         
+             721. Sheet and structural metal workers, moulders and welders,
+                  and related workers
+             722. Blacksmiths, toolmakers and related trades workers
+             723. Machinery mechanics and repairers
+             
+           Handicraft and printing workers
+         
+             731. Handicraft workers
+             732. Printing trades workers
+         
+           Electrical and electronic trades workers
+         
+             741. Electrical equipment installers and repairers
+             742. Electronics and telecommunications installers and 
+                  repairers
+         
+           Food processing, wood working, garment and other craft and 
+           related trades workers
+         
+             751. Food processing and related trades workers
+             752. Wood treaters, cabinet-makers and related trades workers
+             753. Garment and related trades workers
+             754. Other craft and related workers
+         
+         PLANT AND MACHINE OPERATORS, AND ASSEMBLERS
+         
+           Stationary plant and machine operators
+         
+             811. Mining and mineral processing plant operators
+             812. Metal processing and finishing plant operators
+             813. Chemical and photographic products plant and machine
+                  operators
+             814. Rubber, plastic and paper products machine operators
+             815. Textile, fur and leather products machine operators
+             816. Food and related products machine operators
+             817. Wood processing and papermaking plant operators
+             818. Other stationary plant and machine operators
+         
+           Assemblers
+         
+             821. Assemblers
+         
+           Drivers and mobile plant operators
+         
+             831. Locomotive engine drivers and related workers
+             832. Car, van and motorcycle drivers
+             833. Heavy truck and bus drivers
+             834. Mobile plant operators
+             835. Ships' deck crews and related workers
+         
+         ELEMENTARY OCCUPATIONS
+         
+           Cleaners and helpers
+         
+             911. Domestic, hotel and office cleaners and helpers
+             912. Vehicle, window, laundry and other hand cleaning workers
+         
+           Agricultural, forestry and fishery labourers
+         
+             921. Agricultural, forestry and fishery labourers
+         
+           Labourers in mining, construction, manufacturing and transport
+         
+             931. Mining and construction labourers
+             932. Manufacturing labourers
+             933. Transport and storage labourers
+         
+           Food preparation assistants
+             
+             941. Food preparation assistants
+         
+           Street and related sales and service workers
+         
+             951. Street and related service workers
+             952. Street vendors (excluding food)
+         
+           Refuse workers and other elementary workers
+         
+             961. Refuse workers
+             962. Other elementary workers
+
+         OTHER CSES CODES
+
+             996. Other or non-classifiable occupations (not enough 
+                  information available to classify)
+
+             997. VOLUNTEERED: REFUSED
+             998. VOLUNTEERED: DON'T KNOW
+
+             999. MISSING
+
+
+---------------------------------------------------------------------------
+D17.     >>> SPOUSE: SOCIO ECONOMIC STATUS 
+---------------------------------------------------------------------------
+
+NOTES:   This item should report the socio economic status of the 
+         respondent's spouse.
+
+         The categories are intended to distinguish among the following
+         groups:
+          
+         01. White collar: broad occupational grouping of workers 
+         engaged in non-manual labor: Managers, salaried professionals, 
+         office workers, sales personnel, and proprietors are generally 
+         included in the category.
+          
+         02. Worker: broad occupational grouping of workers engaged in 
+         manual labor.
+         
+         03. Farmer: Normally persons self-employed in farming.
+          
+         04. Self-employed: Self-employed occupations of all kinds, 
+         excluding self-employed farming. Included, for example, are
+         entrepreneurs, shop keepers, professionals like lawyers, medical 
+         doctors, etc.
+         ..................................................................
+
+             1. WHITE COLLAR
+             2. WORKER
+             3. FARMER
+             4. SELF-EMPLOYED
+             
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+
+             9. MISSING
+             
+
+---------------------------------------------------------------------------
+D18.     >>> SPOUSE: EMPLOYMENT TYPE - PUBLIC OR PRIVATE
+---------------------------------------------------------------------------
+
+NOTES:   This item should report whether the spouse's employment is 
+         in the public, private, mixed or non-profit sector.
+         ..................................................................
+
+             1. PUBLIC SECTOR
+             2. PRIVATE SECTOR
+             3. MIXED
+             4. "THIRD SECTOR"/NON-PROFIT SECTOR
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+D19.     >>> SPOUSE: INDUSTRIAL SECTOR
+---------------------------------------------------------------------------
+
+NOTES:   This item should report the sector of the respondent's 
+         main occupation.
+         ..................................................................
+
+             1. PRIMARY SECTOR: AGRICULTURAL, FORESTRY, FISHERIES
+             2. SECONDARY SECTOR: INDUSTRY: MINING, CONSTRUCTION
+                MANUFACTURING
+             3. TERTIARY SECTOR: TRANSPORTATION, COMMUNICATION 
+                AND OTHER PUBLIC UTILITIES, 
+                WHOLESALE TRADE, RETAIL TRADE, 
+                PERSONAL SERVICES 
+                FINANCE, INSURANCE, AND REAL ESTATE
+                BUSINESS AND REPAIR SERVICES
+                ENTERTAINMENT AND REPAIR SERVICES
+                PROFESSIONAL AND RELATED SERVICES
+                PUBLIC ADMINISTRATION 
+                ACTIVE MILITARY DUTY
+             4. OTHER
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+
+             9. MISSING
+
+            
+---------------------------------------------------------------------------
+D20.     >>> HOUSEHOLD INCOME
+---------------------------------------------------------------------------
+
+NOTES:   This item should report the annual household income quintile  
+         in which the respondent's household falls.
+
+         When providing this information, please indicate the currency
+         ranges for each quintile (for example: "less than 1,000 dollars 
+         per year", "1,000 to 2,000 dollars per year", etc.).
+         ..................................................................
+
+             1. LOWEST HOUSEHOLD INCOME QUINTILE
+             2. SECOND HOUSEHOLD INCOME QUINTILE
+             3. THIRD HOUSEHOLD INCOME QUINTILE
+             4. FOURTH HOUSEHOLD INCOME QUINTILE
+             5. HIGHEST HOUSEHOLD INCOME QUINTILE
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+D21a.    >>> NUMBER IN HOUSEHOLD
+---------------------------------------------------------------------------
+
+NOTES:   This variable should report the total number of persons in the
+         household - that is, the number of persons living together in the
+         housing unit excluding paid employees and persons who pay for rent
+         for a room.
+         
+         This variable's value should include all of the persons listed
+         in D21b (that is, all of the persons in the household under the
+         age of 18). As a result, the number of persons reported here
+         should equal or exceed the number of persons reported in D21b.  
+         D21a and D21b should be equal only if for some reason all of the
+         persons in the household are under the age of 18.
+         ..................................................................
+
+             01-90. NUMBER OF PERSONS
+
+             97.    VOLUNTEERED: REFUSED
+             98.    VOLUNTEERED: DON'T KNOW
+
+             99.    MISSING
+
+
+---------------------------------------------------------------------------
+D21b.    >>> NUMBER IN HOUSEHOLD UNDER AGE 18
+---------------------------------------------------------------------------
+
+NOTES:   This item should report the number of persons in the household
+         that are under the age of 18.
+         
+         This variable's value should include all of the persons listed
+         in D21c (that is, all of the persons in the household under the
+         age of 6). As a result, the number of persons reported here
+         should equal or exceed the number of persons reported in D21c.         
+         ..................................................................
+
+             00-90. NUMBER OF PERSONS UNDER THE AGE OF 18
+
+             97.    VOLUNTEERED: REFUSED
+             98.    VOLUNTEERED: DON'T KNOW
+
+             99.    MISSING
+
+
+---------------------------------------------------------------------------
+D21c.    >>> NUMBER IN HOUSEHOLD UNDER AGE 6
+---------------------------------------------------------------------------
+
+NOTES:   This item should report the number of persons in the household
+         that are under the age of 6.
+         ..................................................................
+
+             00-90. NUMBER OF PERSONS UNDER THE AGE OF 6
+
+             97.    VOLUNTEERED: REFUSED
+             98.    VOLUNTEERED: DON'T KNOW
+
+             99.    MISSING
+
+
+---------------------------------------------------------------------------
+D22.     >>> RELIGIOUS SERVICES ATTENDANCE
+---------------------------------------------------------------------------
+
+NOTES:   This variable should report the frequency with which the 
+         respondent attends religious services.
+         
+         The response should exclude special occasions such as weddings
+         and funerals.
+         
+         This variable is an optional variable in the CSES battery. 
+         ..................................................................
+
+             1. NEVER
+             2. ONCE A YEAR
+             3. TWO TO ELEVEN TIMES A YEAR
+             4. ONCE A MONTH
+             5. TWO OR MORE TIMES A MONTH
+             6. ONCE A WEEK/MORE THAN ONCE A WEEK
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+             
+             9. MISSING
+
+         
+---------------------------------------------------------------------------
+D23.     >>> RELIGIOSITY
+---------------------------------------------------------------------------
+
+NOTES:   This variable should indicate whether or not and how strongly
+         the respondent holds religious beliefs.
+         ..................................................................
+
+             1. HAVE NO RELIGIOUS BELIEFS
+             2. NOT VERY RELIGIOUS
+             3. SOMEWHAT RELIGIOUS
+             4. VERY RELIGIOUS
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+D24.     >>> RELIGIOUS DENOMINATION
+---------------------------------------------------------------------------
+
+NOTES:   This item should report the respondent's religious denomination.
+
+         Collaborators, please offer "NONE" as an option for respondents.
+         This appears below as code 93.
+         ..................................................................
+
+             01. ROMAN CATHOLIC
+
+             PROTESTANT
+
+             02. PROTESTANT, NO DENOMINATION GIVEN
+             03. ADVENTIST
+             04. EPISCOPALIAN, ANGLICAN, CHURCH OF ENGLAND,
+                 CHURCH OF IRELAND
+             05. BAPTIST
+             06. CONGREGATIONAL
+             07. EUROPEAN FREE CHURCH  (ANABAPTISTS)
+             08. HOLINESS
+             09. INDEPENDENT-FUNDAMENTALIST
+             10. LUTHERAN
+             11. METHODIST
+             12. PENTECOSTAL
+             13. PRESBYTERIAN
+
+             NON-TRADITIONAL PROTESTANTS
+
+             14. CHRISTIAN SCIENTISTS
+             15. MORMONS, CHURCH OF LATTER DAY SAINTS
+             16. UNITARIAN UNIVERSALISTS
+
+             17. EASTERN ORTHODOX CHURCH
+
+             18. CHRISTIAN (NO DENOMINATION GIVEN)
+             
+             19. EASTERN CATHOLIC CHURCHES (E.G., EASTERN RITE CATHOLIC,
+                 GREEK RITE CATHOLIC, UNIATE)
+
+             20. JEWISH
+
+             ISLAM
+
+             30. MUSLIM; MOHAMMEDAN; ISLAM  (NO DENOMINATION GIVEN)
+             31. KHARIJISM
+             32. MU'TAZILISM
+             33. SUNNI
+             34. SHI'ISM
+             35. ISMA'ILIS
+             36. BAHA'I
+             37. DRUSE
+
+             BUDDHISM
+
+             40. BUDDHIST
+             41. THERAVADA
+             42. MAHAYANA
+             43. TANTRISM
+             44. TIBETAN BUDDHISM
+             45. SHINGON
+
+             HINDUISM AND OTHER RELIGIONS OF INDIA
+
+             50. HINDU
+             51. JAINISM
+             52. SIKHIASM
+             53. PARSIISM
+             54. VEDISM
+             55. BRAHMANISM
+             56. VAISAVISM
+             57. SAIVISM
+             58. TANTRISM
+             59. SHAKTISM
+             60. FOLK HINDUISM
+
+             INDIGENOUS RELIGIONS OF EAST ASIA
+
+             71. CONFUCIANISM
+             72. TAOISM
+             73. SHINTO
+             74. BAHAI
+             75. I-KUAN-TAO
+
+             91. AGNOSTICS
+             92. ATHEISTS
+             93. NONE
+
+             97. VOLUNTEERED: REFUSED
+             98. VOLUNTEERED: DON'T KNOW
+
+             99. MISSING
+             
+
+---------------------------------------------------------------------------
+D25.     >>> LANGUAGE USUALLY SPOKEN AT HOME
+---------------------------------------------------------------------------
+
+NOTES:   This variable reports the language usually spoken in the
+         respondent's household. If more than one language is spoken at
+         home, this variable should report the language spoken most of 
+         the time.
+         ..................................................................
+
+             001. AFRIKAANS
+             002. ALBANIAN, ARVANITIKA
+             003. ALBANIAN, GHEG
+             004. ALBANIAN, TOSK
+             005. ALLEMANNISCH
+             006. ALSATIAN
+             007. ARABIC, JUDEO-MOROCCAN
+             008. ARABIC, LEVANTINE (ISRAEL)
+             009. ARMENIAN
+             201. ASHANTI (GHANA)
+             237. ASYRIAN
+             010. AVAR (RUSSIA)
+             011. AWADHI (INDIA)
+             012. AYMARA, CENTRAL (ARGENTINA, PERU)
+             231. AZERI
+
+             013. BASQUE
+             234. BALKAR
+             014. BELORUSSIAN
+             015. BEMBA (ZAMBIA)
+             016. BENGALI, BANGLADESHI, BANGLA (INDIA)
+             017. BHOJPURI (INDIA)
+             244. BICOLANO (PHILIPPINES)
+             265. BISAYA (PHILIPPINES)
+             270. B'LAAN (PHILIPPINES)
+             202. BLUCH (PAKISTAN)
+             263. BOHOLANO (PHILIPPINES)
+             018. BOSNIAN
+             019. BRETON
+             020. BULGARIAN
+
+             260. CAGAYANO (PHILIPPINES)
+             258. CANTILAGNON (PHILIPPINES)
+             273. CAPIZNON (PHILIPPINES)
+             021. CATALAN
+             241. CEBUANO (PHILIPPINES)
+             276. CENTRAL THAI 
+             022. CHECHEN (RUSSIA)
+             203. CHINESE, CANTONESE
+             023. CHINESE, HAKKA
+             024. CHINESE, MANDARIN
+             025. CHINESE, MIN NAN
+             026. CHUVASH (RUSSIA)
+             027. CROATIAN
+             028. CZECH
+
+             029. DANISH
+             030. DECCAN (INDIA)
+             204. DORIC (SCOTLAND)
+             031. DUTCH
+
+             032. ENGLISH
+             033. ERZYA (RUSSIA)
+             205. ESAN (NIGERIA)
+             034. ESTONIAN
+             206. EWE (GHANA)
+
+             209. FARSI (IRAN)
+             035. FINNISH
+             036. FRENCH
+             037. FRISIAN, WESTERN (NETHERLANDS)
+             038. FULACUNDA (SENEGAL)
+
+             207. GA (GHANA)
+             039. GAELIC, IRISH
+             208. GAELIC (SCOTLAND)
+             040. GAGAUZ (MOLDOVA)
+             041. GALICIAN
+             042. GASCON
+             043. GEORGIAN
+             044. GERMAN, STANDARD
+             045. GREEK
+             046. GUARANI, PARAGUAYAN
+             047. GUJARATI (SOUTH AFRICA, INDIA)
+
+             048. HEBREW
+             266. HIGAONON (PHILIPPINES)
+             274. HILIGAYNON (PHILIPPINES)
+             049. HUNGARIAN
+             051. HINDI
+
+             050. ICELANDIC
+             259. IFUGAO (PHILIPPINES)
+             242. ILOCANO (PHILIPPINES)
+             243. ILONGGO (PHILIPPINES)
+             210. INDONESIAN
+             211. IRANIAN
+             254. IRANUN (PHILIPPINES)
+             278. ISAN THAI
+             052. ITALIAN
+             249. ITAWES (PHILIPPINES)
+             212. IWO (UGANDA)
+
+             053. JAKATI (MOLDOVA)
+             213. JAMAICAN PATOIS
+             275. JAMINDANON (PHILIPPINES)
+             054. JAPANESE
+
+             280. KAMAE (THAILAND)
+             257. KAMAYO (PHILIPPINES)
+             055. KANNADA (INDIA)
+             056. KAONDE (ZAMBIA)
+             245. KAPAMPANGAN (PHILIPPINES)
+             057. KARAIM (LITHUANIA)
+             261. KARAY-AY (PHILIPPINES)
+             233. KARBADIN
+             058. KIRMANJKI (TURKEY)
+             235. KOMI
+             279. KORATCH (THAILAND)
+             066. KOREAN
+             232. KURDISH
+             059. KURMANJI (TURKEY)
+
+             060. LADINO (ISRAEL)
+             061. LALA-BISA (ZAMBIA)
+             062. LAMBA (ZAMBIA)
+             277. LANNA THAI 
+             063. LATVIAN
+             064. LENJE (ZAMBIA)
+             065. LESSER ANTILLEAN CREOLE
+             268. LEYTENO (PHILIPPINES)
+             067. LIGURIAN
+             068. LITHUANIAN
+             069. LOMBARD
+             070. LOZI (ZAMBIA)
+             071. LUNDA (ZAMBIA)
+             072. LUVALE (ZAMBIA)
+
+             073. MACEDONIAN
+             251. MAGUINDANAON (PHILIPPINES)
+             074. MAITHILI (INDIA)
+             229. MALLORQUIN
+             267. MALAUEG (PHILIPPINES)
+             075. MALAY
+             076. MALAYALAM (INDIA)
+             077. MALINKE (SENEGAL)
+             214. MALTESE
+             253. MANOBO (PHILIPPINES)
+             250. MASBATEÑO (PHILIPPINES)
+             215. MENDE (SIERRA LEONE)
+             216. MIRPUARY/MIRPUIR (PAKISTAN)
+             217. MNADINGGO (GAMBIA)
+             078. MAMBWE-LUNGU (ZAMBIA)
+             079. MANDINKA (SENEGAL)
+             080. MAORI
+             081. MAPUDUNGUN (CHILE)
+             082. MARATHI (INDIA)
+             083. MBOWE (ZAMBIA)
+             084. MINGRELIAN (GEORGIA)
+             085. MONTENEGRIN
+             255. MUSLIM (PHILIPPINES)
+             086. MWANGA (ZAMBIA)
+
+             087. NEAPOLITAN-CALABRESE
+             088. NORWEGIAN
+             089. NSENGA (ZAMBIA)
+             090. NYANJA (ZAMBIA)
+             091. NYIHA (ZAMBIA)
+
+             092. ORIYA(INDIA)
+             093. OSETIN (GEORGIA)
+
+             218. PAHARI (PAKISTAN)
+             246. PANGASINENSE (PHILIPPINES)
+             094. PANJABI, EASTERN (INDIA)
+             236. PERSIAN
+             095. PIEMONTESE
+             096. POLISH
+             097. PORTUGUESE
+             098. PROVENCAL
+             248. PULANGI-ON (PHILIPPINES)
+             219. PUSHTO (PAKISTAN)
+
+             099. QUECHUA, ANCASH, HUAYLAS
+             100. QUECHUA, SOUTH BOLIVIAN (ARGENTINA)
+             101. QUECH UA, AYACUCHO
+             102. QUICHUA, HIGHLAND, IMBABURA
+
+             103. ROMANI, BALKAN
+             104. ROMANI, CARPATHIAN
+             105. ROMANI, VLACH
+             106. RUMANIAN
+             107. RUMANIAN, ISTRO
+             108. RUMANIAN, MACEDO
+             109. RUSSIAN
+
+             110. SARDINIAN, LOGUDORESE
+             220. SARAKI (PAKISTAN)
+             111. SCHWYZERDUTSCH (SWITZERLAND)
+             112. SERBIAN
+             113. SERBO-CROATIAN
+             114. SERERE-SINE (SENEGAL)
+             264. SIBANIN (PHILIPPINES)
+             115. SICILIAN
+             116. SINDHI (SINGAPORE, INDIA)
+             272. SIPIANON (PHILIPPINES)
+             117. SLOVAK
+             118. SLOVENIAN
+             221. SOMALI
+             262. SORIGAONON (PHILIPPINES)
+             119. SOTHO, NORTHERN (SOUTH AFRICA)
+             120. SOTHO, SOUTHERN (SOUTH AFRICA)
+             281. SOUTHERN THAI
+             121. SPANISH
+             222. SWAHILI
+             122. SWATI (SOUTH AFRICA)
+             123. SWEDISH
+
+             240. TAGALOG (PHILIPPINES)
+             256. TAGON-ON (PHILIPPINES)
+             124. TAMIL (INDIA)
+             125. TATAR (RUSSIA)
+             269. T'BOLI (PHILIPPINES)
+             126. TELUGU (INDIA)
+             127. TIBETAN
+             128. TICANESE (SWITZERLAND)
+             252. TIRURAY (PHILIPPINES)
+             129. TONGA (ZAMBIA)
+             130. TOUCOULEUR (SENEGAL)
+             131. TSONGA (SOUTH AFRICA)
+             132. TSWANA (SOUTH AFRICA)
+             133. TUMBUKA (ZAMBIA)
+             134. TURKISH
+             223. TWI (GHANA)
+
+             135. UKRAINIAN
+             224. UGANDAN
+             230. UDMURT
+             136. URDU (INDIA)
+
+             228. VALENCIANO
+             225. VIETNAMESE
+             137. VENETIAN
+
+             247. WARAY (PHILIPPINES)
+             139. WELSH
+             140. WOLOF (SENEGAL)
+
+             138. XHOSA (SOUTH AFRICA)
+
+             141. YAHUDIC (ISRAEL)
+             142. YIDDISH
+             226. YORUBA (NIGERIA)
+
+             271. ZAMBAL (PHILIPPINES)
+             143. ZULU
+
+             997. VOLUNTEERED: REFUSED
+             998. VOLUNTEERED: DON'T KNOW
+
+             999. MISSING
+
+
+---------------------------------------------------------------------------
+D26.     >>> REGION OF RESIDENCE
+---------------------------------------------------------------------------
+
+NOTES:   This variable reports the respondent's region of residence 
+         using coding categories not more detailed than the autonomous 
+         regions in Spain, or the Laender in Germany. Regions are usually 
+         (but not always) based upon the social, cultural, or historical 
+         differences (though some correspond to administrative regions) 
+         that manifest themselves in political cleavages.
+         ..................................................................
+
+             01-80. [PLEASE PROVIDE REGION CODE LABELS]
+
+             99.    MISSING
+             
+
+---------------------------------------------------------------------------
+D27.    >>> RACE
+---------------------------------------------------------------------------
+
+NOTES:   This item should report the respondent's race.  
+         The item should be coded according to national standards.
+         ..................................................................
+
+             001-996. [PLEASE PROVIDE RACE CODE LABELS]
+
+             997.     VOLUNTEERED: REFUSED
+             998.     VOLUNTEERED: DON'T KNOW
+
+             999.     MISSING
+
+
+---------------------------------------------------------------------------
+D28.     >>> ETHNICITY
+---------------------------------------------------------------------------
+
+NOTES:   This variable reports the ethnic identity of respondents.
+         ..................................................................
+
+             001-996. [PLEASE PROVIDE ETHNICITY CODE LABELS]
+
+             997.     VOLUNTEERED: REFUSED
+             998.     VOLUNTEERED: DON'T KNOW
+
+             999.     MISSING
+
+
+---------------------------------------------------------------------------
+D29.     >>> RURAL OR URBAN RESIDENCE
+---------------------------------------------------------------------------
+
+NOTES:   This item should distinguish respondents living in rural and 
+         urban regions.  
+         
+         Please provide the criteria used to distinguish these different
+         regions.
+         ..................................................................
+
+             1. RURAL AREA OR VILLAGE
+             2. SMALL OR MIDDLE-SIZED TOWN
+             3. SUBURBS OF LARGE TOWN OR CITY
+             4. LARGE TOWN OR CITY
+
+             7. VOLUNTEERED: REFUSED
+             8. VOLUNTEERED: DON'T KNOW
+             
+             9. MISSING
+
+
+---------------------------------------------------------------------------
+D30.    >>> PRIMARY ELECTORAL DISTRICT
+---------------------------------------------------------------------------
+
+NOTES:   This item should indicate the respondent's primary electoral 
+         district.
+         
+         Wherever possible, this variable should use official district
+         identification numbers.
+         
+         The goal of this variable, wherever possible, is to identify
+         electoral consituencies, the definition of which is "the
+         smallest unit for which there is representation to the national 
+         parliament." In other words, the point at which votes are 
+         translated into seats.         
+         ..................................................................
+
+             00001-90000. [PLEASE PROVIDE DISTRICT CODE VALUE LABELS]
+
+                   99999. MISSING
+   
+   
+---------------------------------------------------------------------------
+D31.     >>> COUNTRY OF BIRTH
+---------------------------------------------------------------------------
+
+NOTES:   This item should indicate the respondent's country of birth.        
+         ..................................................................
+
+             001-996. [COUNTRY OF BIRTH]
+
+             997.     VOLUNTEERED: REFUSED
+             998.     VOLUNTEERED: DON'T KNOW
+
+             999.     MISSING
+
+
+---------------------------------------------------------------------------
+D32.     >>> YEAR ARRIVED IN CURRENT COUNTRY
+---------------------------------------------------------------------------
+
+NOTES:   This item should indicate the year that the respondent arrived in
+         the current country (the country where the election study is
+         being conducted). 
+         ..................................................................
+
+             1800-2016. YEAR ARRIVED IN CURRENT COUNTRY
+
+             9996.      WAS BORN IN CURRENT COUNTRY
+             
+             9997.      VOLUNTEERED: REFUSED
+             9998.      VOLUNTEERED: DON'T KNOW
+
+             9999.      MISSING
+
+
+//END OF DOCUMENT
